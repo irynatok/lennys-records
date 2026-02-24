@@ -1,0 +1,327 @@
+@import "tailwindcss";
+
+/* ── Minimal Editorial Design Tokens ──────────────────────────────────────── */
+:root {
+  /* Palette — warm cream, near-black, accent blue */
+  --cream: #F5F0E8;
+  /* Page / desktop background */
+  --cream-dark: #EDE7D9;
+  /* Canvas, panels */
+  --cream-border: #DDD8CF;
+  /* Subtle dividers */
+  --white: #FEFEFE;
+  /* Cards */
+  --ink: #1A1A1A;
+  /* Primary text */
+  --ink-muted: #6B6560;
+  /* Secondary text */
+  --ink-faint: #A09890;
+  /* Placeholder / hint text */
+
+  /* Orange accent — thin lines, active states */
+  --orange: #DF5B24;
+  /* Accent / active underline (flame orange) */
+  --orange-light: #FCEBDE;
+  /* Hover bg on nav */
+
+  /* Type category colors (soft pastel, light) */
+  --type-book: #FEF3C7;
+  --type-book-text: #92400E;
+  --type-movie: #DBEAFE;
+  --type-movie-text: #1E40AF;
+  --type-product: #D1FAE5;
+  --type-product-text: #065F46;
+  --type-motto: #F3E8FF;
+  --type-motto-text: #6B21A8;
+
+  /* Brand fire */
+  --brand-orange: #E8641A;
+
+  /* Folder tab colors */
+  --folder-1: #FFC247;
+  --folder-2: #FF8C6B;
+  --folder-3: #69C0A5;
+  --folder-4: #6BAF FF;
+  --folder-5: #B088F9;
+  --folder-6: #F9887A;
+  --folder-7: #7CC48C;
+  --folder-8: #F9C784;
+
+  /* Shadows — very soft */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.10);
+  --shadow-lg: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+  /* Borders */
+  --border: 1px solid var(--cream-border);
+  --border-orange: 1px solid var(--orange);
+
+  /* Typography */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+
+  /* Semantic */
+  --background: var(--cream);
+  --foreground: var(--ink);
+  --muted-foreground: var(--ink-muted);
+  --radius: 4px;
+}
+
+@theme {
+  --color-background: var(--cream);
+  --color-foreground: var(--ink);
+  --color-primary: var(--orange);
+  --color-muted-foreground: var(--ink-muted);
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+/* ── Base ─────────────────────────────────────────────────────────────────── */
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--cream);
+    color: var(--ink);
+    cursor: auto;
+  }
+
+  body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    background: var(--cream);
+  }
+
+  #root {
+    min-height: 100vh;
+  }
+
+  button,
+  a {
+    cursor: pointer;
+  }
+
+  input,
+  textarea {
+    cursor: text;
+    font-family: var(--font-sans);
+  }
+}
+
+/* ── Buttons ──────────────────────────────────────────────────────────────── */
+
+/* Primary filled button */
+.btn-primary {
+  background: var(--ink);
+  color: var(--white);
+  border: none;
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 8px 20px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: opacity 0.15s, transform 0.1s;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+.btn-primary:hover {
+  opacity: 0.85;
+}
+
+.btn-primary:active {
+  transform: scale(0.97);
+}
+
+/* Secondary outlined button */
+.btn-secondary {
+  background: var(--white);
+  color: var(--ink);
+  border: 1px solid var(--cream-border);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 5px 14px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.btn-secondary:hover {
+  background: var(--orange-light);
+  border-color: var(--orange);
+  color: var(--orange);
+}
+
+.btn-secondary.active {
+  background: var(--orange);
+  color: var(--white);
+  border-color: var(--orange);
+}
+
+/* Keep .win-btn and .nb-btn as aliases for backward compat */
+.win-btn {
+  background: var(--white);
+  color: var(--ink);
+  border: 1px solid var(--cream-border);
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 5px 14px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.win-btn:hover {
+  background: var(--orange-light);
+  border-color: var(--orange);
+  color: var(--orange);
+}
+
+.nb-btn {
+  background: var(--ink);
+  color: var(--white);
+  border: none;
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 8px 20px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: opacity 0.15s, transform 0.1s;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+.nb-btn:hover {
+  opacity: 0.85;
+}
+
+.nb-btn:active {
+  transform: scale(0.97);
+}
+
+/* ── Input ────────────────────────────────────────────────────────────────── */
+.win-input {
+  background: var(--white);
+  border: 1px solid var(--cream-border);
+  border-radius: var(--radius);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  color: var(--ink);
+  padding: 6px 10px;
+  outline: none;
+  width: 100%;
+  transition: border-color 0.15s;
+}
+
+.win-input:focus {
+  border-color: var(--orange);
+  box-shadow: 0 0 0 1px var(--orange);
+  outline: none;
+}
+
+/* ── Card ──────────────────────────────────────────────────────────────────── */
+.nb-card {
+  background: var(--white);
+  border: 1px solid var(--cream-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.15s, transform 0.12s;
+}
+
+.nb-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
+}
+
+/* ── Heading styles ───────────────────────────────────────────────────────── */
+.heading-serif {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1.15;
+}
+
+.heading-serif-italic {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.15;
+}
+
+/* ── Divider with blue accent ─────────────────────────────────────────────── */
+.rule-blue {
+  height: 1px;
+  background: linear-gradient(to right, var(--blue), transparent);
+  border: none;
+}
+
+/* ── Section header ──────────────────────────────────────────────────────── */
+.section-label {
+  font-family: var(--font-sans);
+  font-size: 0.688rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-muted);
+}
+
+/* ── Thin scrollbar ──────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--cream-border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-faint);
+}
+
+/* ── Spin animation ───────────────────────────────────────────────────────── */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Backward compat */
+.glass {
+  background: var(--white);
+  border: 1px solid var(--cream-border);
+  border-radius: var(--radius);
+}

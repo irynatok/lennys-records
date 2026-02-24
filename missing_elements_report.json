@@ -1,0 +1,5102 @@
+{
+  "total_episodes": 274,
+  "with_lightning_round": 273,
+  "missing_books": [
+    {
+      "filename": "Ami Vora.txt",
+      "guests": "Ami Vora",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Bob Baxley.txt",
+      "guests": "Bob Baxley",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Brian Balfour.txt",
+      "guests": "Brian Balfour",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Crystal W.txt",
+      "guests": "Crystal Widjaja",
+      "books": 0,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dan Hockenmaier.txt",
+      "guests": "Dan Hockenmaier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dharmesh Shah.txt",
+      "guests": "Dharmesh Shah",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dr. Fei Fei Li.txt",
+      "guests": "Dr. Fei-Fei Li",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dylan Field.txt",
+      "guests": "Dylan Field",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "EOY Review.txt",
+      "guests": "",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Elena Verna 2.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Elena Verna 4.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Eric Simons.txt",
+      "guests": "Eric Simons",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Fareed Mosavat.txt",
+      "guests": "Fareed Mosavat",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gaurav Misra.txt",
+      "guests": "Gaurav Misra",
+      "books": 0,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Geoffrey Moore.txt",
+      "guests": "Geoffrey Moore",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gergely.txt",
+      "guests": "Gergely Orosz",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gibson Biddle.txt",
+      "guests": "Gibson Biddle",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Guillermo Rauch.txt",
+      "guests": "Guillermo Rauch",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Interview Q Compilation.txt",
+      "guests": "Eeke De Miliano, Geoff Charles, Shishir Mehrotra, Paige Costello, Nikhyl Singhal, Ayo Omojola, Scott Belsky, Lauryn Isford, Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky 2.0.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jeanne Grosser.txt",
+      "guests": "Jeanne DeWitt Grosser",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jeffrey Pfeffer.txt",
+      "guests": "Jeffrey Pfeffer",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jen Abel 2.0.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jen Abel.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Joe Hudson.txt",
+      "guests": "Joe Hudson",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julian Shapiro.txt",
+      "guests": "Julian Shapiro",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julie Zhuo.txt",
+      "guests": "Julie Zhuo",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Karina Nguyen.txt",
+      "guests": "Karina Nguyen",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Coleman & Jay Baxter.txt",
+      "guests": "Keith Coleman, Jay Baxter",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Yandell.txt",
+      "guests": "Keith Yandell",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Molly Graham.txt",
+      "guests": "Molly Graham",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Naomi Gleit.txt",
+      "guests": "Naomi Gleit",
+      "books": 0,
+      "movies": 0,
+      "products": 3,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nikhyl Singhal.txt",
+      "guests": "Nikhyl Singhal",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Nikita Bier.txt",
+      "guests": "Nikita Bier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nir Eyal.txt",
+      "guests": "Nir Eyal",
+      "books": 0,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Noah Weiss.txt",
+      "guests": "Noah Weiss",
+      "books": 0,
+      "movies": 2,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Patrick Campbell.txt",
+      "guests": "Patrick Campbell",
+      "books": 0,
+      "movies": 0,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Paul Adams.txt",
+      "guests": "Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Paul Millerd.txt",
+      "guests": "Paul Millerd",
+      "books": 0,
+      "movies": 1,
+      "products": 3,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ray Cao.txt",
+      "guests": "Ray Cao",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Sander Schulhoff 2.0.txt",
+      "guests": "Sander Schulhoff",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Shreyas Doshi.txt",
+      "guests": "Shreyas Doshi",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Timothy Davis.txt",
+      "guests": "Timothy Davis",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Tristan de Montebello.txt",
+      "guests": "Tristan de Montebello",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Will Larson.txt",
+      "guests": "Will Larson",
+      "books": 0,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    }
+  ],
+  "missing_movies": [
+    {
+      "filename": "Albert Cheng.txt",
+      "guests": "Albert Cheng",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ami Vora.txt",
+      "guests": "Ami Vora",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Benjamin Mann.txt",
+      "guests": "Benjamin Mann",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Bob Baxley.txt",
+      "guests": "Bob Baxley",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Brian Balfour.txt",
+      "guests": "Brian Balfour",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Claire Hughes Johnson.txt",
+      "guests": "Claire Hughes Johnson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dan Hockenmaier.txt",
+      "guests": "Dan Hockenmaier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dharmesh Shah.txt",
+      "guests": "Dharmesh Shah",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dr. Fei Fei Li.txt",
+      "guests": "Dr. Fei-Fei Li",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Drew Houston.txt",
+      "guests": "Drew Houston",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dylan Field.txt",
+      "guests": "Dylan Field",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "EOY Review.txt",
+      "guests": "",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Elena Verna 2.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Elena Verna 4.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Eric Simons.txt",
+      "guests": "Eric Simons",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Evan LaPointe.txt",
+      "guests": "Evan LaPointe",
+      "books": 5,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Fareed Mosavat.txt",
+      "guests": "Fareed Mosavat",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Geoffrey Moore.txt",
+      "guests": "Geoffrey Moore",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gergely.txt",
+      "guests": "Gergely Orosz",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gia Laudi.txt",
+      "guests": "Georgiana Laudi, John Cutler",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Gibson Biddle.txt",
+      "guests": "Gibson Biddle",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gokul Rajaram.txt",
+      "guests": "Gokul Rajaram",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Guillermo Rauch.txt",
+      "guests": "Guillermo Rauch",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Interview Q Compilation.txt",
+      "guests": "Eeke De Miliano, Geoff Charles, Shishir Mehrotra, Paige Costello, Nikhyl Singhal, Ayo Omojola, Scott Belsky, Lauryn Isford, Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jackie Bavaro.txt",
+      "guests": "Jackie Bavaro",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky 2.0.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jeanne Grosser.txt",
+      "guests": "Jeanne DeWitt Grosser",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jeffrey Pfeffer.txt",
+      "guests": "Jeffrey Pfeffer",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jen Abel.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jerry Colonna.txt",
+      "guests": "Jerry Colonna",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Joe Hudson.txt",
+      "guests": "Joe Hudson",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julian Shapiro.txt",
+      "guests": "Julian Shapiro",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julie Zhuo 2.0.txt",
+      "guests": "Julie Zhuo",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julie Zhuo.txt",
+      "guests": "Julie Zhuo",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Karina Nguyen.txt",
+      "guests": "Karina Nguyen",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Coleman & Jay Baxter.txt",
+      "guests": "Keith Coleman, Jay Baxter",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Yandell.txt",
+      "guests": "Keith Yandell",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Madhavan Ramanujam.txt",
+      "guests": "Madhavan Ramanujam",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Manik Gupta.txt",
+      "guests": "Manik Gupta",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Marty Cagan 2.0.txt",
+      "guests": "Marty Cagan",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marty Cagan.txt",
+      "guests": "Marty Cagan",
+      "books": 7,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Abrahams.txt",
+      "guests": "Matt Abrahams",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Dixon.txt",
+      "guests": "Matt Dixon",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mochary.txt",
+      "guests": "Matt Mochary",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mullenweg.txt",
+      "guests": "Matt Mullenweg",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Melanie Perkins.txt",
+      "guests": "Melanie Perkins",
+      "books": 2,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Mike Krieger.txt",
+      "guests": "Mike Krieger",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Molly Graham.txt",
+      "guests": "Molly Graham",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Naomi Gleit.txt",
+      "guests": "Naomi Gleit",
+      "books": 0,
+      "movies": 0,
+      "products": 3,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nickey Skarstad.txt",
+      "guests": "Nickey Skarstad",
+      "books": 1,
+      "movies": 0,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nikhyl Singhal.txt",
+      "guests": "Nikhyl Singhal",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Nikita Bier.txt",
+      "guests": "Nikita Bier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Oji Udezue.txt",
+      "guests": "Oji Udezue",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Patrick Campbell.txt",
+      "guests": "Patrick Campbell",
+      "books": 0,
+      "movies": 0,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Paul Adams.txt",
+      "guests": "Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Phyl Terry.txt",
+      "guests": "Phyl Terry",
+      "books": 1,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Rahul Vohra.txt",
+      "guests": "Rahul Vohra",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ray Cao.txt",
+      "guests": "Ray Cao",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ryan Hoover.txt",
+      "guests": "Ryan Hoover",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ryan Singer.txt",
+      "guests": "Ryan Singer",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Sanchan Saxena.txt",
+      "guests": "Sanchan Saxena",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sander Schulhoff 2.0.txt",
+      "guests": "Sander Schulhoff",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Sarah Tavel.txt",
+      "guests": "Sarah Tavel",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Scott Wu.txt",
+      "guests": "Scott Wu",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Shaun Clowes.txt",
+      "guests": "Shaun Clowes",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shreyas Doshi.txt",
+      "guests": "Shreyas Doshi",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Tanguy Crusson.txt",
+      "guests": "Tanguy Crusson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Timothy Davis.txt",
+      "guests": "Timothy Davis",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Tomer Cohen 2.0.txt",
+      "guests": "Tomer Cohen",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Tristan de Montebello.txt",
+      "guests": "Tristan de Montebello",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Uri Levine.txt",
+      "guests": "Uri Levine",
+      "books": 2,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Wes Kao.txt",
+      "guests": "Wes Kao",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    }
+  ],
+  "missing_products": [
+    {
+      "filename": "Ami Vora.txt",
+      "guests": "Ami Vora",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Arielle Jackson.txt",
+      "guests": "Arielle Jackson",
+      "books": 3,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Barbra Gago.txt",
+      "guests": "Barbra Gago",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Bill Carr.txt",
+      "guests": "Bill Carr",
+      "books": 5,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Bob Baxley.txt",
+      "guests": "Bob Baxley",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Brian Balfour.txt",
+      "guests": "Brian Balfour",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Camille Hearst.txt",
+      "guests": "Camille Hearst",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Casey Winters_.txt",
+      "guests": "Casey Winters",
+      "books": 3,
+      "movies": 5,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Chip Huyen.txt",
+      "guests": "Chip Huyen",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Christopher Lochhead.txt",
+      "guests": "Christopher Lochhead",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Claire Hughes Johnson.txt",
+      "guests": "Claire Hughes Johnson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dan Hockenmaier.txt",
+      "guests": "Dan Hockenmaier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dharmesh Shah.txt",
+      "guests": "Dharmesh Shah",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Drew Houston.txt",
+      "guests": "Drew Houston",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Elena Verna 2.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Elena Verna 4.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Emily Kramer.txt",
+      "guests": "Emily Kramer",
+      "books": 5,
+      "movies": 4,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Eric Simons.txt",
+      "guests": "Eric Simons",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Fareed Mosavat.txt",
+      "guests": "Fareed Mosavat",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Geoffrey Moore.txt",
+      "guests": "Geoffrey Moore",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gergely.txt",
+      "guests": "Gergely Orosz",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gibson Biddle.txt",
+      "guests": "Gibson Biddle",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Inbal S.txt",
+      "guests": "Inbal Shani",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Interview Q Compilation.txt",
+      "guests": "Eeke De Miliano, Geoff Charles, Shishir Mehrotra, Paige Costello, Nikhyl Singhal, Ayo Omojola, Scott Belsky, Lauryn Isford, Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ivan Zhao.txt",
+      "guests": "Ivan Zhao",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky 2.0.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Janna Bastow.txt",
+      "guests": "Janna Bastow",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jason Shah.txt",
+      "guests": "Jason Shah",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jeanne Grosser.txt",
+      "guests": "Jeanne DeWitt Grosser",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jeffrey Pfeffer.txt",
+      "guests": "Jeffrey Pfeffer",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jen Abel.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jerry Colonna.txt",
+      "guests": "Jerry Colonna",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jessica Livingston.txt",
+      "guests": "Jessica Livingston",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Joe Hudson.txt",
+      "guests": "Joe Hudson",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "John Cutler.txt",
+      "guests": "John Cutler",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jules Walter.txt",
+      "guests": "Jules Walter",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julian Shapiro.txt",
+      "guests": "Julian Shapiro",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julie Zhuo 2.0.txt",
+      "guests": "Julie Zhuo",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julie Zhuo.txt",
+      "guests": "Julie Zhuo",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Karina Nguyen.txt",
+      "guests": "Karina Nguyen",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Coleman & Jay Baxter.txt",
+      "guests": "Keith Coleman, Jay Baxter",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Yandell.txt",
+      "guests": "Keith Yandell",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ken Norton.txt",
+      "guests": "Ken Norton",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Kristen Berman.txt",
+      "guests": "Kristen Berman",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Madhavan Ramanujam.txt",
+      "guests": "Madhavan Ramanujam",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Manik Gupta.txt",
+      "guests": "Manik Gupta",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Marc Benioff.txt",
+      "guests": "Marc Benioff",
+      "books": 1,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Marty Cagan.txt",
+      "guests": "Marty Cagan",
+      "books": 7,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Abrahams.txt",
+      "guests": "Matt Abrahams",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Dixon.txt",
+      "guests": "Matt Dixon",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mochary.txt",
+      "guests": "Matt Mochary",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mullenweg.txt",
+      "guests": "Matt Mullenweg",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Mike Krieger.txt",
+      "guests": "Mike Krieger",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Molly Graham.txt",
+      "guests": "Molly Graham",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nabeel S. Qureshi.txt",
+      "guests": "Nabeel S. Qureshi",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Naomi Ionita.txt",
+      "guests": "Naomi Ionita",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nick Turley.txt",
+      "guests": "Nick Turley",
+      "books": 3,
+      "movies": 3,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nikita Bier.txt",
+      "guests": "Nikita Bier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Paul Adams.txt",
+      "guests": "Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Pete Kazanjy.txt",
+      "guests": "Pete Kazanjy",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Rahul Vohra.txt",
+      "guests": "Rahul Vohra",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ramesh Johari.txt",
+      "guests": "Ramesh Johari",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ray Cao.txt",
+      "guests": "Ray Cao",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ryan Hoover.txt",
+      "guests": "Ryan Hoover",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ryan J. Salva.txt",
+      "guests": "Ryan J. Salva",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ryan Singer.txt",
+      "guests": "Ryan Singer",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Sachin Monga.txt",
+      "guests": "Sachin Monga",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sander Schulhoff 2.0.txt",
+      "guests": "Sander Schulhoff",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Shaun Clowes.txt",
+      "guests": "Shaun Clowes",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shishir Mehrotra.txt",
+      "guests": "Shishir Mehrotra",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shreyas Doshi.txt",
+      "guests": "Shreyas Doshi",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Tanguy Crusson.txt",
+      "guests": "Tanguy Crusson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Tristan de Montebello.txt",
+      "guests": "Tristan de Montebello",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Upasna Gautam.txt",
+      "guests": "Upasna Gautam",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Varun Parmar.txt",
+      "guests": "Varun Parmar",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Vijay.txt",
+      "guests": "Vijay Iyengar",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Wes Kao.txt",
+      "guests": "Wes Kao",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Will Larson.txt",
+      "guests": "Will Larson",
+      "books": 0,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Yuriy Timen.txt",
+      "guests": "Yuriy Timen",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    }
+  ],
+  "missing_life_motto": [
+    {
+      "filename": "Alex Hardimen.txt",
+      "guests": "Alex Hardiman",
+      "books": 4,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ami Vora.txt",
+      "guests": "Ami Vora",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Annie Pearl.txt",
+      "guests": "Annie Pearl",
+      "books": 3,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Arielle Jackson.txt",
+      "guests": "Arielle Jackson",
+      "books": 3,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Barbra Gago.txt",
+      "guests": "Barbra Gago",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Camille Ricketts.txt",
+      "guests": "Camille Ricketts",
+      "books": 1,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Casey Winters_.txt",
+      "guests": "Casey Winters",
+      "books": 3,
+      "movies": 5,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Christine Itwaru.txt",
+      "guests": "Christine Itwaru",
+      "books": 4,
+      "movies": 3,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Crystal W.txt",
+      "guests": "Crystal Widjaja",
+      "books": 0,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dan Hockenmaier.txt",
+      "guests": "Dan Hockenmaier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "David Singleton.txt",
+      "guests": "David Singleton",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Dharmesh Shah.txt",
+      "guests": "Dharmesh Shah",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "EOY Review.txt",
+      "guests": "",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Eeke de Milliano.txt",
+      "guests": "Eeke de Milliano",
+      "books": 2,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Elena Verna 2.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Elena Verna 4.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Emily Kramer.txt",
+      "guests": "Emily Kramer",
+      "books": 5,
+      "movies": 4,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Eric Simons.txt",
+      "guests": "Eric Simons",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Evan LaPointe.txt",
+      "guests": "Evan LaPointe",
+      "books": 5,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Fareed Mosavat.txt",
+      "guests": "Fareed Mosavat",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Geoff Charles.txt",
+      "guests": "Geoff Charles",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Geoffrey Moore.txt",
+      "guests": "Geoffrey Moore",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gergely.txt",
+      "guests": "Gergely Orosz",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gia Laudi.txt",
+      "guests": "Georgiana Laudi, John Cutler",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Gibson Biddle.txt",
+      "guests": "Gibson Biddle",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gokul Rajaram.txt",
+      "guests": "Gokul Rajaram",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Gustaf Alstromer.txt",
+      "guests": "Gustaf Alströmer",
+      "books": 1,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Gustav Söderström.txt",
+      "guests": "Gustav Söderström",
+      "books": 10,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Hari Srinivasan.txt",
+      "guests": "Hari Srinivasan",
+      "books": 3,
+      "movies": 3,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ian McAllister.txt",
+      "guests": "Ian McAllister",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Interview Q Compilation.txt",
+      "guests": "Eeke De Miliano, Geoff Charles, Shishir Mehrotra, Paige Costello, Nikhyl Singhal, Ayo Omojola, Scott Belsky, Lauryn Isford, Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jackie Bavaro.txt",
+      "guests": "Jackie Bavaro",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky 2.0.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Janna Bastow.txt",
+      "guests": "Janna Bastow",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jason Shah.txt",
+      "guests": "Jason Shah",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jeffrey Pfeffer.txt",
+      "guests": "Jeffrey Pfeffer",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jeremy Henrickson.txt",
+      "guests": "Jeremy Henrickson",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jerry Colonna.txt",
+      "guests": "Jerry Colonna",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jiaona Zhang.txt",
+      "guests": "Jiaona Zhang (JZ)",
+      "books": 5,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Joe Hudson.txt",
+      "guests": "Joe Hudson",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "John Cutler.txt",
+      "guests": "John Cutler",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jonathan Becker.txt",
+      "guests": "Jonathan Becker",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Josh Miller.txt",
+      "guests": "Josh Miller",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jules Walter.txt",
+      "guests": "Jules Walter",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julia Schottenstein.txt",
+      "guests": "Julia Schottenstein",
+      "books": 5,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Julian Shapiro.txt",
+      "guests": "Julian Shapiro",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julie Zhuo.txt",
+      "guests": "Julie Zhuo",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Karina Nguyen.txt",
+      "guests": "Karina Nguyen",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Coleman & Jay Baxter.txt",
+      "guests": "Keith Coleman, Jay Baxter",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Yandell.txt",
+      "guests": "Keith Yandell",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ken Norton.txt",
+      "guests": "Ken Norton",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Kristen Berman.txt",
+      "guests": "Kristen Berman",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Laura Modi.txt",
+      "guests": "Laura Modi",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lauren Ipsen.txt",
+      "guests": "Lauren Ipsen",
+      "books": 2,
+      "movies": 2,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lauryn Isford.txt",
+      "guests": "Lauryn Isford",
+      "books": 2,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lulu Cheng Meservey.txt",
+      "guests": "Lulu Cheng Meservey",
+      "books": 1,
+      "movies": 1,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Madhavan Ramanujam.txt",
+      "guests": "Madhavan Ramanujam",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Manik Gupta.txt",
+      "guests": "Manik Gupta",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Marc Andreessen.txt",
+      "guests": "Marc Andreessen",
+      "books": 1,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marc Benioff.txt",
+      "guests": "Marc Benioff",
+      "books": 1,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Marily Nika.txt",
+      "guests": "Marily Nika",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marty Cagan.txt",
+      "guests": "Marty Cagan",
+      "books": 7,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Abrahams.txt",
+      "guests": "Matt Abrahams",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Dixon.txt",
+      "guests": "Matt Dixon",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mochary.txt",
+      "guests": "Matt Mochary",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mullenweg.txt",
+      "guests": "Matt Mullenweg",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Melissa Tan.txt",
+      "guests": "Melissa Tan",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Mike Krieger.txt",
+      "guests": "Mike Krieger",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Molly Graham.txt",
+      "guests": "Molly Graham",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nancy Duarte.txt",
+      "guests": "Nancy Duarte",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Naomi Ionita.txt",
+      "guests": "Naomi Ionita",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nickey Skarstad.txt",
+      "guests": "Nickey Skarstad",
+      "books": 1,
+      "movies": 0,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nicole Forsgren.txt",
+      "guests": "Nicole Forsgren",
+      "books": 3,
+      "movies": 3,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nikhyl Singhal.txt",
+      "guests": "Nikhyl Singhal",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Nikita Bier.txt",
+      "guests": "Nikita Bier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nikita Miller.txt",
+      "guests": "Nikita Miller",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Noah Weiss.txt",
+      "guests": "Noah Weiss",
+      "books": 0,
+      "movies": 2,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Paige Costello.txt",
+      "guests": "Paige Costello",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Patrick Campbell.txt",
+      "guests": "Patrick Campbell",
+      "books": 0,
+      "movies": 0,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Pete Kazanjy.txt",
+      "guests": "Pete Kazanjy",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Petra Wille.txt",
+      "guests": "Petra Wille",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Rahul Vohra.txt",
+      "guests": "Rahul Vohra",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ramesh Johari.txt",
+      "guests": "Ramesh Johari",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ravi Mehta.txt",
+      "guests": "Ravi Mehta",
+      "books": 2,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ray Cao.txt",
+      "guests": "Ray Cao",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Robby Stein.txt",
+      "guests": "Robby Stein",
+      "books": 3,
+      "movies": 3,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ronny Kohavi.txt",
+      "guests": "Ronny Kohavi",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ryan Hoover.txt",
+      "guests": "Ryan Hoover",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ryan J. Salva.txt",
+      "guests": "Ryan J. Salva",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ryan Singer.txt",
+      "guests": "Ryan Singer",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Sachin Monga.txt",
+      "guests": "Sachin Monga",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sahil Mansuri.txt",
+      "guests": "Sahil Mansuri",
+      "books": 1,
+      "movies": 3,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sam Lessin.txt",
+      "guests": "Sam Lessin",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sanchan Saxena.txt",
+      "guests": "Sanchan Saxena",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sander Schulhoff 2.0.txt",
+      "guests": "Sander Schulhoff",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Scott Belsky.txt",
+      "guests": "Scott Belsky",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Shishir Mehrotra.txt",
+      "guests": "Shishir Mehrotra",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shreyas Doshi.txt",
+      "guests": "Shreyas Doshi",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Shweta Shriva.txt",
+      "guests": "Shweta Shrivastava",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sri Batchu.txt",
+      "guests": "Sri Batchu",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Tanguy Crusson.txt",
+      "guests": "Tanguy Crusson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Vijay.txt",
+      "guests": "Vijay Iyengar",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Wes Kao.txt",
+      "guests": "Wes Kao",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Yuhki Yamashata.txt",
+      "guests": "Yuhki Yamashita",
+      "books": 2,
+      "movies": 1,
+      "products": 6,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Yuriy Timen.txt",
+      "guests": "Yuriy Timen",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Zoelle Egner.txt",
+      "guests": "Zoelle Egner",
+      "books": 2,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    }
+  ],
+  "missing_any": [
+    {
+      "filename": "Albert Cheng.txt",
+      "guests": "Albert Cheng",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Alex Hardimen.txt",
+      "guests": "Alex Hardiman",
+      "books": 4,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ami Vora.txt",
+      "guests": "Ami Vora",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Annie Pearl.txt",
+      "guests": "Annie Pearl",
+      "books": 3,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Arielle Jackson.txt",
+      "guests": "Arielle Jackson",
+      "books": 3,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Barbra Gago.txt",
+      "guests": "Barbra Gago",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Benjamin Mann.txt",
+      "guests": "Benjamin Mann",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Bill Carr.txt",
+      "guests": "Bill Carr",
+      "books": 5,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Bob Baxley.txt",
+      "guests": "Bob Baxley",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Brian Balfour.txt",
+      "guests": "Brian Balfour",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Camille Hearst.txt",
+      "guests": "Camille Hearst",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Camille Ricketts.txt",
+      "guests": "Camille Ricketts",
+      "books": 1,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Casey Winters_.txt",
+      "guests": "Casey Winters",
+      "books": 3,
+      "movies": 5,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Chip Huyen.txt",
+      "guests": "Chip Huyen",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Christine Itwaru.txt",
+      "guests": "Christine Itwaru",
+      "books": 4,
+      "movies": 3,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Christopher Lochhead.txt",
+      "guests": "Christopher Lochhead",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Claire Hughes Johnson.txt",
+      "guests": "Claire Hughes Johnson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Crystal W.txt",
+      "guests": "Crystal Widjaja",
+      "books": 0,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dan Hockenmaier.txt",
+      "guests": "Dan Hockenmaier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "David Singleton.txt",
+      "guests": "David Singleton",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Dharmesh Shah.txt",
+      "guests": "Dharmesh Shah",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Dr. Fei Fei Li.txt",
+      "guests": "Dr. Fei-Fei Li",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Drew Houston.txt",
+      "guests": "Drew Houston",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Dylan Field.txt",
+      "guests": "Dylan Field",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "EOY Review.txt",
+      "guests": "",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Eeke de Milliano.txt",
+      "guests": "Eeke de Milliano",
+      "books": 2,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Elena Verna 2.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Elena Verna 4.0.txt",
+      "guests": "Elena Verna",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Emily Kramer.txt",
+      "guests": "Emily Kramer",
+      "books": 5,
+      "movies": 4,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Eric Simons.txt",
+      "guests": "Eric Simons",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Evan LaPointe.txt",
+      "guests": "Evan LaPointe",
+      "books": 5,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Fareed Mosavat.txt",
+      "guests": "Fareed Mosavat",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gaurav Misra.txt",
+      "guests": "Gaurav Misra",
+      "books": 0,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Geoff Charles.txt",
+      "guests": "Geoff Charles",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Geoffrey Moore.txt",
+      "guests": "Geoffrey Moore",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gergely.txt",
+      "guests": "Gergely Orosz",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gia Laudi.txt",
+      "guests": "Georgiana Laudi, John Cutler",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Gibson Biddle.txt",
+      "guests": "Gibson Biddle",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Gokul Rajaram.txt",
+      "guests": "Gokul Rajaram",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Guillermo Rauch.txt",
+      "guests": "Guillermo Rauch",
+      "books": 0,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Gustaf Alstromer.txt",
+      "guests": "Gustaf Alströmer",
+      "books": 1,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Gustav Söderström.txt",
+      "guests": "Gustav Söderström",
+      "books": 10,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Hari Srinivasan.txt",
+      "guests": "Hari Srinivasan",
+      "books": 3,
+      "movies": 3,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ian McAllister.txt",
+      "guests": "Ian McAllister",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Inbal S.txt",
+      "guests": "Inbal Shani",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Interview Q Compilation.txt",
+      "guests": "Eeke De Miliano, Geoff Charles, Shishir Mehrotra, Paige Costello, Nikhyl Singhal, Ayo Omojola, Scott Belsky, Lauryn Isford, Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ivan Zhao.txt",
+      "guests": "Ivan Zhao",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jackie Bavaro.txt",
+      "guests": "Jackie Bavaro",
+      "books": 1,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky 2.0.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jake Knapp + John Zeratsky.txt",
+      "guests": "Jake Knapp, John Zeratsky",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Janna Bastow.txt",
+      "guests": "Janna Bastow",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jason Shah.txt",
+      "guests": "Jason Shah",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jeanne Grosser.txt",
+      "guests": "Jeanne DeWitt Grosser",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jeffrey Pfeffer.txt",
+      "guests": "Jeffrey Pfeffer",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Jen Abel 2.0.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jen Abel.txt",
+      "guests": "Jen Abel",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jeremy Henrickson.txt",
+      "guests": "Jeremy Henrickson",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jerry Colonna.txt",
+      "guests": "Jerry Colonna",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Jessica Livingston.txt",
+      "guests": "Jessica Livingston",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jiaona Zhang.txt",
+      "guests": "Jiaona Zhang (JZ)",
+      "books": 5,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Joe Hudson.txt",
+      "guests": "Joe Hudson",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "John Cutler.txt",
+      "guests": "John Cutler",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Jonathan Becker.txt",
+      "guests": "Jonathan Becker",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Josh Miller.txt",
+      "guests": "Josh Miller",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Jules Walter.txt",
+      "guests": "Jules Walter",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julia Schottenstein.txt",
+      "guests": "Julia Schottenstein",
+      "books": 5,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Julian Shapiro.txt",
+      "guests": "Julian Shapiro",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Julie Zhuo 2.0.txt",
+      "guests": "Julie Zhuo",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Julie Zhuo.txt",
+      "guests": "Julie Zhuo",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Karina Nguyen.txt",
+      "guests": "Karina Nguyen",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Coleman & Jay Baxter.txt",
+      "guests": "Keith Coleman, Jay Baxter",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Keith Yandell.txt",
+      "guests": "Keith Yandell",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Ken Norton.txt",
+      "guests": "Ken Norton",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Kristen Berman.txt",
+      "guests": "Kristen Berman",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Laura Modi.txt",
+      "guests": "Laura Modi",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lauren Ipsen.txt",
+      "guests": "Lauren Ipsen",
+      "books": 2,
+      "movies": 2,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lauryn Isford.txt",
+      "guests": "Lauryn Isford",
+      "books": 2,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Lulu Cheng Meservey.txt",
+      "guests": "Lulu Cheng Meservey",
+      "books": 1,
+      "movies": 1,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Madhavan Ramanujam.txt",
+      "guests": "Madhavan Ramanujam",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Manik Gupta.txt",
+      "guests": "Manik Gupta",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Marc Andreessen.txt",
+      "guests": "Marc Andreessen",
+      "books": 1,
+      "movies": 1,
+      "products": 4,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marc Benioff.txt",
+      "guests": "Marc Benioff",
+      "books": 1,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Marily Nika.txt",
+      "guests": "Marily Nika",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marty Cagan 2.0.txt",
+      "guests": "Marty Cagan",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Marty Cagan.txt",
+      "guests": "Marty Cagan",
+      "books": 7,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Abrahams.txt",
+      "guests": "Matt Abrahams",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Dixon.txt",
+      "guests": "Matt Dixon",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mochary.txt",
+      "guests": "Matt Mochary",
+      "books": 4,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Matt Mullenweg.txt",
+      "guests": "Matt Mullenweg",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Melanie Perkins.txt",
+      "guests": "Melanie Perkins",
+      "books": 2,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Melissa Tan.txt",
+      "guests": "Melissa Tan",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Mike Krieger.txt",
+      "guests": "Mike Krieger",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Molly Graham.txt",
+      "guests": "Molly Graham",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nabeel S. Qureshi.txt",
+      "guests": "Nabeel S. Qureshi",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nancy Duarte.txt",
+      "guests": "Nancy Duarte",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Naomi Gleit.txt",
+      "guests": "Naomi Gleit",
+      "books": 0,
+      "movies": 0,
+      "products": 3,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Naomi Ionita.txt",
+      "guests": "Naomi Ionita",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nick Turley.txt",
+      "guests": "Nick Turley",
+      "books": 3,
+      "movies": 3,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nickey Skarstad.txt",
+      "guests": "Nickey Skarstad",
+      "books": 1,
+      "movies": 0,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Nicole Forsgren.txt",
+      "guests": "Nicole Forsgren",
+      "books": 3,
+      "movies": 3,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nikhyl Singhal.txt",
+      "guests": "Nikhyl Singhal",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Nikita Bier.txt",
+      "guests": "Nikita Bier",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Nikita Miller.txt",
+      "guests": "Nikita Miller",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Nir Eyal.txt",
+      "guests": "Nir Eyal",
+      "books": 0,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Noah Weiss.txt",
+      "guests": "Noah Weiss",
+      "books": 0,
+      "movies": 2,
+      "products": 3,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Oji Udezue.txt",
+      "guests": "Oji Udezue",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Paige Costello.txt",
+      "guests": "Paige Costello",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Patrick Campbell.txt",
+      "guests": "Patrick Campbell",
+      "books": 0,
+      "movies": 0,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Paul Adams.txt",
+      "guests": "Paul Adams",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Paul Millerd.txt",
+      "guests": "Paul Millerd",
+      "books": 0,
+      "movies": 1,
+      "products": 3,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Pete Kazanjy.txt",
+      "guests": "Pete Kazanjy",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Petra Wille.txt",
+      "guests": "Petra Wille",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Phyl Terry.txt",
+      "guests": "Phyl Terry",
+      "books": 1,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Rahul Vohra.txt",
+      "guests": "Rahul Vohra",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ramesh Johari.txt",
+      "guests": "Ramesh Johari",
+      "books": 3,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ravi Mehta.txt",
+      "guests": "Ravi Mehta",
+      "books": 2,
+      "movies": 1,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ray Cao.txt",
+      "guests": "Ray Cao",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Robby Stein.txt",
+      "guests": "Robby Stein",
+      "books": 3,
+      "movies": 3,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ronny Kohavi.txt",
+      "guests": "Ronny Kohavi",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Ryan Hoover.txt",
+      "guests": "Ryan Hoover",
+      "books": 1,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Ryan J. Salva.txt",
+      "guests": "Ryan J. Salva",
+      "books": 2,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Ryan Singer.txt",
+      "guests": "Ryan Singer",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Sachin Monga.txt",
+      "guests": "Sachin Monga",
+      "books": 1,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sahil Mansuri.txt",
+      "guests": "Sahil Mansuri",
+      "books": 1,
+      "movies": 3,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sam Lessin.txt",
+      "guests": "Sam Lessin",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sanchan Saxena.txt",
+      "guests": "Sanchan Saxena",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Sander Schulhoff 2.0.txt",
+      "guests": "Sander Schulhoff",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Sarah Tavel.txt",
+      "guests": "Sarah Tavel",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Scott Belsky.txt",
+      "guests": "Scott Belsky",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Scott Wu.txt",
+      "guests": "Scott Wu",
+      "books": 2,
+      "movies": 0,
+      "products": 2,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Shaun Clowes.txt",
+      "guests": "Shaun Clowes",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shishir Mehrotra.txt",
+      "guests": "Shishir Mehrotra",
+      "books": 2,
+      "movies": 2,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Shreyas Doshi.txt",
+      "guests": "Shreyas Doshi",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 4
+    },
+    {
+      "filename": "Shweta Shriva.txt",
+      "guests": "Shweta Shrivastava",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Sri Batchu.txt",
+      "guests": "Sri Batchu",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Tanguy Crusson.txt",
+      "guests": "Tanguy Crusson",
+      "books": 3,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Timothy Davis.txt",
+      "guests": "Timothy Davis",
+      "books": 0,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Tomer Cohen 2.0.txt",
+      "guests": "Tomer Cohen",
+      "books": 3,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Tristan de Montebello.txt",
+      "guests": "Tristan de Montebello",
+      "books": 0,
+      "movies": 0,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 3
+    },
+    {
+      "filename": "Upasna Gautam.txt",
+      "guests": "Upasna Gautam",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Uri Levine.txt",
+      "guests": "Uri Levine",
+      "books": 2,
+      "movies": 0,
+      "products": 1,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Varun Parmar.txt",
+      "guests": "Varun Parmar",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 1
+    },
+    {
+      "filename": "Vijay.txt",
+      "guests": "Vijay Iyengar",
+      "books": 2,
+      "movies": 3,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Wes Kao.txt",
+      "guests": "Wes Kao",
+      "books": 2,
+      "movies": 0,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 3
+    },
+    {
+      "filename": "Will Larson.txt",
+      "guests": "Will Larson",
+      "books": 0,
+      "movies": 1,
+      "products": 0,
+      "has_motto": true,
+      "missing_count": 2
+    },
+    {
+      "filename": "Yuhki Yamashata.txt",
+      "guests": "Yuhki Yamashita",
+      "books": 2,
+      "movies": 1,
+      "products": 6,
+      "has_motto": false,
+      "missing_count": 1
+    },
+    {
+      "filename": "Yuriy Timen.txt",
+      "guests": "Yuriy Timen",
+      "books": 3,
+      "movies": 1,
+      "products": 0,
+      "has_motto": false,
+      "missing_count": 2
+    },
+    {
+      "filename": "Zoelle Egner.txt",
+      "guests": "Zoelle Egner",
+      "books": 2,
+      "movies": 2,
+      "products": 5,
+      "has_motto": false,
+      "missing_count": 1
+    }
+  ],
+  "complete": [
+    {
+      "filename": "Ada Chen Rekhi.txt",
+      "guests": "Ada Chen Rekhi",
+      "books": 2,
+      "movies": 2,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Adriel Frederick.txt",
+      "guests": "Adriel Frederick",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Aishwarya Naresh Reganti + Kiriti Badam.txt",
+      "guests": "Aishwarya Naresh Reganti, Kiriti Badam",
+      "books": 3,
+      "movies": 1,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Alex Komoroske.txt",
+      "guests": "Alex Komoroske",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Alexander Embiricos.txt",
+      "guests": "Alexander Embiricos",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Alisa Cohn.txt",
+      "guests": "Alisa Cohn",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Andrew Wilkinson.txt",
+      "guests": "Andrew Wilkinson",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Andy Raskin_.txt",
+      "guests": "Andy Raskin",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Anneka Gupta.txt",
+      "guests": "Anneka Gupta",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Anuj Rathi.txt",
+      "guests": "Anuj Rathi",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Aparna Chennapragada.txt",
+      "guests": "Aparna Chennapragada",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "April Dunford 2.0.txt",
+      "guests": "April Dunford",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Archie Abrams.txt",
+      "guests": "Archie Abrams",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Asha Sharma.txt",
+      "guests": "Asha Sharma",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Austin Hay.txt",
+      "guests": "Austin Hay",
+      "books": 2,
+      "movies": 5,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Ayo Omojola.txt",
+      "guests": "Ayo Omojola",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Bangaly Kaba.txt",
+      "guests": "Bangaly Kaba",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Ben Horowitz.txt",
+      "guests": "Ben Horowitz",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Ben Williams.txt",
+      "guests": "Ben Williams",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Benjamin Lauzier.txt",
+      "guests": "Ben Lauzier",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Bob Moesta.txt",
+      "guests": "Bob Moesta",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Boz.txt",
+      "guests": "Andrew Bosworth",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Brendan Foody.txt",
+      "guests": "Brendan Foody",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Bret Taylor.txt",
+      "guests": "Bret Taylor",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Brian Tolkin.txt",
+      "guests": "Brian Tolkin",
+      "books": 4,
+      "movies": 3,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Camille Fournier.txt",
+      "guests": "Camille Fournier",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Carilu Dietrich.txt",
+      "guests": "Carilu Dietrich",
+      "books": 2,
+      "movies": 1,
+      "products": 4,
+      "has_motto": true
+    },
+    {
+      "filename": "Chandra Janakiraman.txt",
+      "guests": "Chandra Janakiraman",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Chip Conley.txt",
+      "guests": "Chip Conley",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Chris Hutchins.txt",
+      "guests": "Chris Hutchins",
+      "books": 3,
+      "movies": 1,
+      "products": 4,
+      "has_motto": true
+    },
+    {
+      "filename": "Christian Idiodi.txt",
+      "guests": "Christian Idiodi",
+      "books": 4,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Christina Wodtke.txt",
+      "guests": "Christina Wodtke",
+      "books": 2,
+      "movies": 1,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Christopher Miller.txt",
+      "guests": "Christopher Miller",
+      "books": 2,
+      "movies": 3,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Claire Butler.txt",
+      "guests": "Claire Butler",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Claire Vo.txt",
+      "guests": "Claire Vo",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Dalton Caldwell.txt",
+      "guests": "Dalton Caldwell",
+      "books": 2,
+      "movies": 3,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Dan Shipper.txt",
+      "guests": "Dan Shipper",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Daniel Lereya.txt",
+      "guests": "Daniel Lereya",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "David Placek.txt",
+      "guests": "David Placek",
+      "books": 2,
+      "movies": 3,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Deb Liu.txt",
+      "guests": "Deb Liu",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Dhanji R. Prasanna.txt",
+      "guests": "Dhanji R. Prasanna",
+      "books": 1,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Donna Lichaw.txt",
+      "guests": "Donna Lichaw",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Dr. Becky Kennedy.txt",
+      "guests": "Dr. Becky Kennedy",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Dylan Field 2.0.txt",
+      "guests": "Dylan Field",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Ebi Atawodi.txt",
+      "guests": "Ebi Atawodi",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Edwin Chen.txt",
+      "guests": "Edwin Chen",
+      "books": 3,
+      "movies": 3,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Elena Verna 3.0.txt",
+      "guests": "Elena Verna",
+      "books": 3,
+      "movies": 3,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Eli Schwartz.txt",
+      "guests": "Eli Schwartz",
+      "books": 4,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Elizabeth Stone.txt",
+      "guests": "Elizabeth Stone",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Emilie Gerber.txt",
+      "guests": "Emilie Gerber",
+      "books": 1,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Eoghan McCabe.txt",
+      "guests": "Eoghan McCabe",
+      "books": 1,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Eric Ries.txt",
+      "guests": "Eric Ries",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Ethan Evans 2.0.txt",
+      "guests": "Ethan Evans",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Ethan Smith.txt",
+      "guests": "Ethan Smith",
+      "books": 4,
+      "movies": 3,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Farhan Thawar.txt",
+      "guests": "Farhan Thawar",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Garrett Lord.txt",
+      "guests": "Garrett Lord",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Gina Gotthilf.txt",
+      "guests": "Gina Gotthilf",
+      "books": 2,
+      "movies": 4,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Graham Weaver.txt",
+      "guests": "Graham Weaver",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Grant Lee.txt",
+      "guests": "Grant Lee",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Gustav Söderström.txt",
+      "guests": "Gustav Söderström",
+      "books": 10,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Hamel Husain & Shreya Shankar.txt",
+      "guests": "Hamel Husain, Shreya Shankar",
+      "books": 4,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Hamilton Helmer.txt",
+      "guests": "Hamilton Helmer",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Heidi Helfand.txt",
+      "guests": "Heidi Helfand",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Hila Qu.txt",
+      "guests": "Hila Qu",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Hilary Gridley.txt",
+      "guests": "Hilary Gridley",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Howie Liu.txt",
+      "guests": "Howie Liu",
+      "books": 1,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Itamar Gilad.txt",
+      "guests": "Itamar Gilad",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jackson Shuttleworth.txt",
+      "guests": "Jackson Shuttleworth",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jag Duggal.txt",
+      "guests": "Jag Duggal",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jason Cohen.txt",
+      "guests": "Jason Cohen",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Jason Droege.txt",
+      "guests": "Jason Droege",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jason Feifer.txt",
+      "guests": "Jason Feifer",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jason Fried.txt",
+      "guests": "Jason Fried",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jason M Lemkin.txt",
+      "guests": "Jason Lemkin",
+      "books": 6,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Jeff Weinstein.txt",
+      "guests": "Jeff Weinstein",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Jess Lachs.txt",
+      "guests": "Jessica Lachs",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jessica Hische.txt",
+      "guests": "Jessica Hische",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "John Mark Nickels.txt",
+      "guests": "John Mark Nickels",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Jonathan Lowenhar.txt",
+      "guests": "Jonathan Lowenhar",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Jonny Miller.txt",
+      "guests": "Jonny Miller",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Judd Antin.txt",
+      "guests": "Judd Antin",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Karri Saarinen.txt",
+      "guests": "Karri Saarinen",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Katie Dill.txt",
+      "guests": "Katie Dill",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Kayvon Beykpour.txt",
+      "guests": "Kayvon Beykpour",
+      "books": 3,
+      "movies": 5,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Kenneth Berger.txt",
+      "guests": "Kenneth Berger",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Kevin Aluwi.txt",
+      "guests": "Kevin Aluwi",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Kevin Weil.txt",
+      "guests": "Kevin Weil",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Kevin Yien.txt",
+      "guests": "Kevin Yien",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Kim Scott.txt",
+      "guests": "Kim Scott",
+      "books": 7,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Krithika Shankarraman.txt",
+      "guests": "Krithika Shankarraman",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Kunal Shah.txt",
+      "guests": "Kunal Shah",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Lane Shackleton.txt",
+      "guests": "Lane Shackleton",
+      "books": 5,
+      "movies": 2,
+      "products": 4,
+      "has_motto": true
+    },
+    {
+      "filename": "Laura Schaffer.txt",
+      "guests": "Laura Schaffer",
+      "books": 2,
+      "movies": 1,
+      "products": 5,
+      "has_motto": true
+    },
+    {
+      "filename": "Logan Kilpatrick.txt",
+      "guests": "Logan Kilpatrick",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Luc Levesque.txt",
+      "guests": "Luc Levesque",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Madhavan Ramanujam 2.0.txt",
+      "guests": "Madhavan Ramanujam",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Maggie Crowley.txt",
+      "guests": "Maggie Crowley",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Matt LeMay.txt",
+      "guests": "Matt LeMay",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Matt MacInnis.txt",
+      "guests": "Matt MacInnis",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Matthew Dicks.txt",
+      "guests": "Matthew Dicks",
+      "books": 5,
+      "movies": 2,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Maya Prohovnik.txt",
+      "guests": "Maya Prohovnik",
+      "books": 2,
+      "movies": 3,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Mayur Kamat.txt",
+      "guests": "Mayur Kamat",
+      "books": 2,
+      "movies": 1,
+      "products": 4,
+      "has_motto": true
+    },
+    {
+      "filename": "Megan Cook.txt",
+      "guests": "Megan Cook",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Melissa Perri + Denise Tilles.txt",
+      "guests": "Melissa Perri, Denise Tilles",
+      "books": 4,
+      "movies": 3,
+      "products": 3,
+      "has_motto": true
+    },
+    {
+      "filename": "Meltem Kuran.txt",
+      "guests": "Meltem Kuran Berkowitz",
+      "books": 2,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Mihika Kapoor.txt",
+      "guests": "Mihika Kapoor",
+      "books": 1,
+      "movies": 3,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Mike Maples Jr.txt",
+      "guests": "Mike Maples Jr.",
+      "books": 4,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Nan Yu.txt",
+      "guests": "Nan Yu",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Nicole Forsgren 2.0.txt",
+      "guests": "Nicole Forsgren",
+      "books": 4,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Nilan Peiris.txt",
+      "guests": "Nilan Peiris",
+      "books": 1,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Noam Lovinsky.txt",
+      "guests": "Noam Lovinsky",
+      "books": 1,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Peter Deng.txt",
+      "guests": "Peter Deng",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Raaz Herzberg.txt",
+      "guests": "Raaz Herzberg",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Rachel Lockett.txt",
+      "guests": "Rachel Lockett",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Richard Rumelt.txt",
+      "guests": "Richard Rumelt",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Sam Schillace.txt",
+      "guests": "Sam Schillace",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Sander Schulhoff.txt",
+      "guests": "Sander Schulhoff",
+      "books": 1,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Sean Ellis.txt",
+      "guests": "Sean Ellis",
+      "books": 2,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Tamar Yehoshua.txt",
+      "guests": "Tamar Yehoshua",
+      "books": 2,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Tim Holley.txt",
+      "guests": "Tim Holley",
+      "books": 3,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Tomer Cohen.txt",
+      "guests": "Tomer Cohen",
+      "books": 3,
+      "movies": 1,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Tom Conrad.txt",
+      "guests": "Tom Conrad",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Vikrama Dhiman.txt",
+      "guests": "Vikrama Dhiman",
+      "books": 3,
+      "movies": 2,
+      "products": 2,
+      "has_motto": true
+    },
+    {
+      "filename": "Wes Kao 2.0.txt",
+      "guests": "Wes Kao",
+      "books": 2,
+      "movies": 1,
+      "products": 1,
+      "has_motto": true
+    },
+    {
+      "filename": "Zevi Arnovitz.txt",
+      "guests": "Zevi Arnovitz",
+      "books": 3,
+      "movies": 2,
+      "products": 1,
+      "has_motto": true
+    }
+  ]
+}
