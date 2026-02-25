@@ -279,7 +279,11 @@ export default function GuestModal({ episode, accentColor, onClose, onNext, onPr
                   </Section>
                 );
               }
-              const reachItems = episode.guests.flatMap((g) => [...g.reach.platforms, ...g.reach.websites]);
+              const PLACEHOLDER_PATTERNS = /^@?handle\s+on\s+/i;
+              const BARE_PLATFORM_NAMES = new Set(['twitter', 'linkedin', 'instagram', 'facebook', 'youtube', 'tiktok']);
+              const reachItems = episode.guests
+                .flatMap((g) => [...g.reach.platforms, ...g.reach.websites])
+                .filter((item) => !PLACEHOLDER_PATTERNS.test(item) && !BARE_PLATFORM_NAMES.has(item.toLowerCase()));
               if (reachItems.length === 0) return null;
               return (
                 <Section title="Where to Find" accentColor={accentColor}>

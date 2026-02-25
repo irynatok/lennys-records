@@ -99,7 +99,7 @@ function aggregateItems<T>(episodes: Episode[], config: AggregateConfig<T>): Can
         // Prefer the longer title variant (e.g. "Atomic Habits - James Clear" over "Atomic Habits")
         if (title.length > existing.title.length) existing.title = title;
         const why = config.getWhy(item);
-        if (!existing.why && why) existing.why = why;
+        if (why && why.length > (existing.why?.length ?? 0)) existing.why = why;
         if (!existing.substackUrl && ep.substack_url) existing.substackUrl = ep.substack_url;
         const url = config.getUrl(item);
         if (!existing.itemUrl && url) existing.itemUrl = url;
