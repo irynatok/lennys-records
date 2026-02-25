@@ -42,7 +42,7 @@
         {
           "title": "Ted Lasso",
           "type": "tv_show",
-          "why": null,
+          "why": "positive and uplifting message, great performance, humorous, well-developed characters",
           "url": "https://tv.apple.com/us/show/ted-lasso/"
         },
         {
@@ -69,7 +69,7 @@
           "url": "https://www.adachen.com/an-in-depth-guide-to-executive-coaching-everything-you-need-to-know-part-1/"
         }
       ],
-      "life_motto": null,
+      "life_motto": "Figure out, maybe the night before, the one thing that you want to get done in your day, and then at the earliest opportunity, just try to give yourself five minutes on it.  It's about overcoming productive procrastination by making the start lightweight.",
       "interview_question": "What's a common misconception people have about you?",
       "productivity_tip": "Figure out the one thing you want to get done in your day, and then at the earliest opportunity, give yourself five minutes on it to overcome productive procrastination"
     },
@@ -131,8 +131,14 @@
           "url": null
         }
       ],
-      "products": [],
-      "life_motto": null,
+      "products": [
+        {
+          "name": "HP Academy",
+          "why": "They are a huge car nerd, like deep into modifying and tweaking and tuning cars. This is an esoteric one called HP Academy that they are into.",
+          "url": null
+        }
+      ],
+      "life_motto": "teach me something you don't think I know.",
       "interview_question": "Teach me something you don't think I know",
       "productivity_tip": null
     },
@@ -194,8 +200,8 @@
         },
         {
           "title": "A Fire Upon the Deep",
-          "author": "Vernon Vinge",
-          "why": null,
+          "author": "Vernor Vinge",
+          "why": "Recommended by Noah Smith/Lenny",
           "url": null
         }
       ],
@@ -309,8 +315,8 @@
       "books": [
         {
           "title": "High Growth Handbook",
-          "author": "Elad Gill",
-          "why": null,
+          "author": "Elad Gil",
+          "why": "super actionable if you're a leader in a young company",
           "url": "https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100"
         },
         {
@@ -348,12 +354,12 @@
         },
         {
           "name": "Slack",
-          "why": null,
+          "why": "Makes life easier",
           "url": "https://www.slack.com"
         },
         {
           "name": "Figma",
-          "why": null,
+          "why": "Nice when designers let me play with things.",
           "url": "https://www.figma.com"
         },
         {
@@ -533,13 +539,13 @@
         {
           "title": "Radical Candor",
           "author": "Kim Scott",
-          "why": null,
+          "why": "really good for management and best practices around giving feedback",
           "url": "https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375"
         },
         {
           "title": "Working Backwards",
           "author": "Colin Bryar and Bill Carr",
-          "why": null,
+          "why": "it provides a unique way of building product and is opinionated about what matters in the process",
           "url": "https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595"
         },
         {
@@ -560,7 +566,7 @@
       "products": [
         {
           "name": "Ninja Creami",
-          "why": "it turns anything into ice cream, works as expected, and is simple to use",
+          "why": "can freeze a protein shake and then it turns it into ice cream, which is delicious.",
           "url": "https://www.amazon.com/Ninja-NC299AMZ-Milkshakes-One-Touch-Container/dp/B09QV24FFZ"
         }
       ],
@@ -653,7 +659,7 @@
         {
           "title": "The Laws of Human Nature",
           "author": "Robert Greene",
-          "why": null,
+          "why": "Great library, doesn't pull punches",
           "url": "https://www.amazon.com/Laws-Human-Nature-Robert-Greene/dp/0525428143"
         },
         {
@@ -667,7 +673,7 @@
         {
           "title": "Challengers",
           "type": "movie",
-          "why": null,
+          "why": "Good cinematography and music",
           "url": "https://tv.apple.com/us/movie/challengers/umc.cmc.53cuz33n4e74ixj8whccj87oc"
         }
       ],
@@ -741,7 +747,7 @@
           "url": "https://www.fitbit.com/global/us/home"
         }
       ],
-      "life_motto": null,
+      "life_motto": "having a shit draft is a million times more valuable than having all these great ideas.",
       "interview_question": "What role has this narrative played in your leadership? How does it work in your leadership?",
       "productivity_tip": "Make the title the takeaway of the slide so that the person looking at it has to do zero work to take away."
     },
@@ -785,7 +791,7 @@
         {
           "title": "The Hard Thing About Hard Things",
           "author": "Ben Horowitz",
-          "why": null,
+          "why": "Teaches PMs to chew glass and care about outcomes",
           "url": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205"
         },
         {
@@ -799,7 +805,7 @@
         {
           "title": "Fallout",
           "type": "tv_show",
-          "why": null,
+          "why": "Incredible adaptation",
           "url": "https://www.amazon.com/dp/B0CN4HV16N"
         }
       ],
@@ -852,19 +858,19 @@
         {
           "title": "Playing to Win",
           "author": null,
-          "why": null,
+          "why": "Great modern strategy book",
           "url": "https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X/"
         },
         {
           "title": "Good to Great",
           "author": null,
-          "why": null,
+          "why": "Take advice from people who analyzed business problems",
           "url": "https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996"
         },
         {
           "title": "Hooked",
           "author": null,
-          "why": null,
+          "why": "it's an effective model for thinking about how to create engaging products",
           "url": "https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/"
         }
       ],
@@ -879,22 +885,22 @@
       "products": [
         {
           "name": "Slack",
-          "why": null,
+          "why": "Makes life easier",
           "url": null
         },
         {
           "name": "Miro",
-          "why": null,
+          "why": "Essential for collaboration",
           "url": "https://miro.com/"
         },
         {
           "name": "Loom",
-          "why": null,
+          "why": "for recording trainings in a human, connected way",
           "url": "https://www.loom.com/"
         },
         {
           "name": "Pendo",
-          "why": null,
+          "why": "Love it",
           "url": "https://go.pendo.io/"
         },
         {
@@ -942,13 +948,13 @@
         {
           "title": "Working Backwards",
           "author": null,
-          "why": null,
+          "why": "it provides a unique way of building product and is opinionated about what matters in the process",
           "url": "https://www.workingbackwards.com/"
         },
         {
           "title": "How Brands Grow",
           "author": "Byron Sharp",
-          "why": null,
+          "why": "Classic marketing book, great primer",
           "url": "https://www.amazon.com/How-Brands-Grow-What-Marketers/dp/0195573560"
         },
         {
@@ -1078,19 +1084,19 @@
         {
           "title": "The JOLT Effect",
           "author": "Matt Dixon",
-          "why": null,
+          "why": "His book",
           "url": "https://www.amazon.com/JOLT-Effect-Performers-Overcome-Indecision/dp/0593538102"
         },
         {
           "title": "The Challenger Sale",
           "author": "Matt Dixon",
-          "why": null,
+          "why": "His book",
           "url": "https://www.amazon.com/Challenger-Sale-Control-Customer-Conversation/dp/1591844355"
         },
         {
           "title": "The Challenger Customer",
           "author": "Matt Dixon",
-          "why": null,
+          "why": "Sequel to The Challenger Sale",
           "url": "https://www.amazon.com/Challenger-Customer-Selling-Influencer-Multiply/dp/1591848156"
         },
         {
@@ -1171,13 +1177,13 @@
         {
           "title": "The Sopranos",
           "type": "tv_show",
-          "why": null,
+          "why": "Rewatch value",
           "url": "https://www.hbo.com/the-sopranos"
         },
         {
           "title": "The Wire",
           "type": "tv_show",
-          "why": null,
+          "why": "it's one of the best made series for television ever",
           "url": null
         }
       ],
@@ -1229,7 +1235,7 @@
         {
           "title": "Positioning: The Battle for Your Mind",
           "author": null,
-          "why": null,
+          "why": "it's the original book on positioning",
           "url": "https://www.amazon.com/Positioning-Battle-Your-Al-Ries/dp/0071373586"
         },
         {
@@ -1255,7 +1261,7 @@
         {
           "title": "Encanto",
           "type": "movie",
-          "why": null,
+          "why": "Has a five-year-old, Disney all the time",
           "url": "https://movies.disney.com/encanto"
         },
         {
@@ -1316,7 +1322,7 @@
           "url": null
         },
         {
-          "title": "Tomorrow, and tomorrow, and tomorrow",
+          "title": "Tomorrow, and Tomorrow, and Tomorrow",
           "author": null,
           "why": "beautiful story over 10 years",
           "url": "https://www.amazon.com/dp/0593466497"
@@ -1401,7 +1407,7 @@
         {
           "title": "Silo",
           "type": "tv_show",
-          "why": null,
+          "why": "Mystery, reminds of Fallout",
           "url": "https://tv.apple.com/us/show/silo"
         },
         {
@@ -1500,12 +1506,18 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": null,
+          "why": "Shakespearean level drama",
           "url": "https://twitter.com/nocontextroyco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
         }
       ],
-      "products": [],
-      "life_motto": null,
+      "products": [
+        {
+          "name": "Uber",
+          "why": "it can be used as a courier for local point-to-point deliveries",
+          "url": null
+        }
+      ],
+      "life_motto": "It would be good to connect, it would just be good to connect.",
       "interview_question": "Tell me something you did that worked out but not for the reason that you thought it would work",
       "productivity_tip": "If you're doing anything local where you're just like taking something point-to-point, Uber can do it for you"
     },
@@ -1557,7 +1569,7 @@
         {
           "title": "Range",
           "author": "David Epstein",
-          "why": null,
+          "why": "Generalists",
           "url": "https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484"
         },
         {
@@ -1657,7 +1669,7 @@
       ],
       "tv_movies": [
         {
-          "title": "Sandman",
+          "title": "The Sandman",
           "type": "tv_show",
           "why": "it's really good. The TV version of it isn't exactly about the books, but it's about the characters, and I feel like the way that they portrayed the characters was really interesting and super diverse",
           "url": "https://www.netflix.com/title/81150303"
@@ -1806,8 +1818,14 @@
           "url": "https://www.hbo.com/curb-your-enthusiasm"
         }
       ],
-      "products": [],
-      "life_motto": null,
+      "products": [
+        {
+          "name": "Snyk",
+          "why": "Snyk is a security platform that helps developers find and fix vulnerabilities in their code. The company has a product-led growth model, and Ben discusses their approach to free vs. paid plans and trials.",
+          "url": null
+        }
+      ],
+      "life_motto": "Continuously challenging yourselves and reevaluating whether the model, the specific delineations between the plans and how you support evaluation and the motion between those plans, I think it's really important to do that.",
       "interview_question": "Fast forward three years. What's different about you then?",
       "productivity_tip": null
     },
@@ -1867,7 +1885,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "great TV show",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         },
         {
@@ -1880,7 +1898,7 @@
       "products": [
         {
           "name": "Arc",
-          "why": "great browser",
+          "why": "It's a new browser with an exciting vision that's iterating on the traditional browser tab cluster",
           "url": "https://arc.net/"
         }
       ],
@@ -1933,7 +1951,18 @@
         }
       ],
       "tv_movies": [],
-      "products": [],
+      "products": [
+        {
+          "name": "Claude Code",
+          "why": "came out of the labs team, a success because we thought people are not going to be locked to their IDEs forever",
+          "url": null
+        },
+        {
+          "name": "MCP",
+          "why": "came out of the labs team",
+          "url": null
+        }
+      ],
       "life_motto": "Everything is hard.",
       "interview_question": "null",
       "productivity_tip": "Use a bidet."
@@ -1969,13 +1998,13 @@
         {
           "title": "Good to Great",
           "author": null,
-          "why": null,
+          "why": "Take advice from people who analyzed business problems",
           "url": "https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996"
         },
         {
           "title": "The Effective Executive",
           "author": "Peter Drucker",
-          "why": null,
+          "why": "Simple enduring advice",
           "url": "https://hbr.org/1967/01/the-effective-decision"
         },
         {
@@ -2200,14 +2229,14 @@
         },
         {
           "title": "Good Inside",
-          "author": "Dr. Becky",
+          "author": "Dr. Becky Kennedy",
           "why": "Tremendous parenting book with lessons for managing one's own emotions in any context.",
           "url": "https://www.amazon.com/Good-Inside-Guide-Becoming-Parent/dp/B09Y4WG7RJ"
         }
       ],
       "tv_movies": [
         {
-          "title": "Mandalorian",
+          "title": "The Mandalorian",
           "type": "tv_show",
           "why": "Fun to watch with kids, offers a connection to lore and a more adult conversation for them to be a part of.",
           "url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD"
@@ -2281,7 +2310,7 @@
         {
           "title": "High Output Management",
           "author": null,
-          "why": "on running companies",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
@@ -2293,7 +2322,7 @@
         {
           "title": "Shoe Dog",
           "author": null,
-          "why": "inspirational story",
+          "why": "Pre-product market fit: chase passion, team alignment",
           "url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910/r"
         }
       ],
@@ -2301,13 +2330,13 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": null,
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.imdb.com/title/tt15398776/"
         },
         {
           "title": "Suits",
           "type": "tv_show",
-          "why": null,
+          "why": "The story arc of every episode is that there's a problem. Then they solve the problem and then the problem is solved at the end. So, it's very gratifying.",
           "url": "https://www.netflix.com/title/70195800"
         }
       ],
@@ -2442,7 +2471,7 @@
         {
           "title": "Shoe Dog",
           "author": null,
-          "why": null,
+          "why": "Pre-product market fit: chase passion, team alignment",
           "url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-NIKE/dp/1471146723"
         },
         {
@@ -2492,7 +2521,7 @@
         },
         {
           "name": "Particle",
-          "why": "AI news tool",
+          "why": "News app, wife's startup",
           "url": "https://particlenews.ai/"
         }
       ],
@@ -2561,8 +2590,8 @@
       ],
       "products": [
         {
-          "name": "Whoop",
-          "why": "Fan girl for it, use it every day",
+          "name": "WHOOP",
+          "why": "Real-time stress signal and health insights",
           "url": "https://www.whoop.com"
         }
       ],
@@ -2606,7 +2635,7 @@
         {
           "title": "The Three-Body Problem",
           "author": "Cixin Liu",
-          "why": null,
+          "why": "Mind-expanding",
           "url": "https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032"
         },
         {
@@ -2678,7 +2707,7 @@
         {
           "title": "Obviously Awesome",
           "author": "April Dunford",
-          "why": "Step-by-step guide to positioning",
+          "why": "Every marketer should read on positioning",
           "url": "https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005"
         }
       ],
@@ -2699,22 +2728,22 @@
       "products": [
         {
           "name": "Notion",
-          "why": "In love with it",
+          "why": "All documentation, personal use",
           "url": "https://www.notion.so/"
         },
         {
           "name": "Arc",
-          "why": "Beautiful and delightful",
+          "why": "It's a new browser with an exciting vision that's iterating on the traditional browser tab cluster",
           "url": "https://arc.net/"
         },
         {
           "name": "Figma",
-          "why": "Love it",
+          "why": "Nice when designers let me play with things.",
           "url": "https://www.figma.com/"
         },
         {
           "name": "Superhuman",
-          "why": "Couldn't live without it",
+          "why": "it's so well-designed and it's so easy to use",
           "url": "https://superhuman.com/"
         },
         {
@@ -2770,7 +2799,7 @@
         {
           "title": "Never Split the Difference",
           "author": "Chris Voss",
-          "why": "Great book about negotiating",
+          "why": "super helpful for negotiation, but also for a lot of business decision making generally",
           "url": "https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/ref=sr_1_1?crid=1DANAY5OIBL7X&amp;keywords=never+split+the+difference&amp;qid=1682536370&amp;s=books&amp;sprefix=never+split+the+differenc%2Cstripbooks%2C287&amp;sr=1-1"
         }
       ],
@@ -2778,7 +2807,7 @@
         {
           "title": "Everything Everywhere All at Once",
           "type": "movie",
-          "why": "Mind bender, appreciation for life",
+          "why": "wonderful story and explores many interesting themes",
           "url": "https://www.hulu.com/movie/everything-everywhere-all-at-once-fa320000-8cf3-46fc-8c45-df5ec67b71f2"
         }
       ],
@@ -2790,7 +2819,7 @@
         },
         {
           "name": "Miro",
-          "why": "Love whiteboards",
+          "why": "Essential for collaboration",
           "url": "https://miro.com/"
         },
         {
@@ -2800,7 +2829,7 @@
         },
         {
           "name": "Midjourney",
-          "why": "Experimenting with it",
+          "why": "Great for toddlers to visualize ideas",
           "url": null
         }
       ],
@@ -2851,13 +2880,13 @@
         {
           "title": "The Goal",
           "author": "Eliyahu Goldratt",
-          "why": "Explains how my brain works",
+          "why": "Novelization of Toyota lean manufacturing, systems thinking",
           "url": "https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951"
         },
         {
           "title": "Thinking, Fast and Slow",
           "author": "Daniel Kahneman",
-          "why": "Absorbed it as quick as possible",
+          "why": "It's the Bible for behavior and helps with building front-end products and understanding member expectations",
           "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/r"
         },
         {
@@ -2877,13 +2906,13 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "Great, really enjoyed the video games",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         },
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": "Great",
+          "why": "Favorite program over last year, trippy",
           "url": null
         },
         {
@@ -2957,7 +2986,7 @@
         {
           "title": "Dune: Part Two",
           "type": "movie",
-          "why": "Fun watch",
+          "why": "Incredible",
           "url": "https://tv.apple.com/us/movie/dune-part-two/umc.cmc.363aycnv6vy9qgekvew6fveb9"
         }
       ],
@@ -3036,7 +3065,7 @@
         {
           "title": "Ted Lasso",
           "type": "tv_show",
-          "why": "Sucker for that show",
+          "why": "positive and uplifting message, great performance, humorous, well-developed characters",
           "url": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
         },
         {
@@ -3092,7 +3121,7 @@
         {
           "title": "From Third World to First",
           "author": "Lee Kuan Yew",
-          "why": "System thinking for a country",
+          "why": "Story of Singapore, parallel to startups",
           "url": "https://www.amazon.com/Third-World-First-Singapore-1965-2000/dp/0060197765"
         }
       ],
@@ -3239,7 +3268,7 @@
         {
           "title": "Empowered",
           "author": "Marty Cagan and Chris Jones",
-          "why": null,
+          "why": "His book",
           "url": "https://www.svpg.com/books/empowered-ordinary-people-extraordinary-products/"
         },
         {
@@ -3251,7 +3280,7 @@
         {
           "title": "The Hard Thing About Hard Things",
           "author": "Ben Horowitz",
-          "why": "Describes the mindset and culture",
+          "why": "Teaches PMs to chew glass and care about outcomes",
           "url": null
         }
       ],
@@ -3259,7 +3288,7 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": "Enjoyed it",
+          "why": "Shakespearean level drama",
           "url": "https://www.hbo.com/succession"
         },
         {
@@ -3348,12 +3377,12 @@
       "products": [
         {
           "name": "Zoom",
-          "why": "Terrible but better than everything else",
+          "why": "I use so much that I feel like I must say it, because I spend so much of my time on it and it's categorically better than Google Meet.",
           "url": null
         },
         {
           "name": "Slack",
-          "why": "Use it",
+          "why": "Makes life easier",
           "url": null
         },
         {
@@ -3408,13 +3437,13 @@
         {
           "title": "Inspired",
           "author": "Marty Cagan",
-          "why": "Classic, inspirational",
+          "why": "Reflection of decades of love and passion for product work",
           "url": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/"
         },
         {
           "title": "Leaders Eat Last",
           "author": "Simon Sinek",
-          "why": "Likely leadership style",
+          "why": "Likes that leadership book",
           "url": "https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016/"
         },
         {
@@ -3446,7 +3475,7 @@
         {
           "title": "The White Lotus",
           "type": "tv_show",
-          "why": "Qualified",
+          "why": "Raw entertainment",
           "url": null
         }
       ],
@@ -3463,7 +3492,7 @@
         },
         {
           "name": "Figma",
-          "why": "Great for design",
+          "why": "Nice when designers let me play with things.",
           "url": "https://www.figma.com/"
         },
         {
@@ -3613,7 +3642,7 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": "Dark comedy",
+          "why": "Shakespearean level drama",
           "url": "https://www.hbo.com/succession"
         }
       ],
@@ -3665,7 +3694,7 @@
         {
           "title": "Radical Candor",
           "author": "Kim Scott",
-          "why": "Good for new managers",
+          "why": "really good for management and best practices around giving feedback",
           "url": "https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375"
         },
         {
@@ -3686,7 +3715,7 @@
       "products": [
         {
           "name": "FigJam",
-          "why": "Replaces many tools, uses it for everything including home renovation mood boards",
+          "why": "we're starting to use it for everything from calibrations, to interview debriefs, to product reviews",
           "url": "https://www.figma.com/figjam/"
         }
       ],
@@ -3733,13 +3762,13 @@
         {
           "title": "Scaling People",
           "author": "Claire Hughes Johnson",
-          "why": "Her own book",
+          "why": "Practical advice, shares techniques used at Stripe",
           "url": "https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212"
         },
         {
           "title": "High Growth Handbook",
           "author": "Elad Gil",
-          "why": "Contributed a chapter",
+          "why": "super actionable if you're a leader in a young company",
           "url": "https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100"
         },
         {
@@ -3791,19 +3820,19 @@
         {
           "title": "High Growth Handbook",
           "author": "Elad Gil",
-          "why": "Solid playbook answers to 80-90% of scaling questions",
+          "why": "super actionable if you're a leader in a young company",
           "url": null
         },
         {
           "title": "Scaling People",
           "author": "Claire Hughes Johnson",
-          "why": "Great reference book for leadership",
+          "why": "Practical advice, shares techniques used at Stripe",
           "url": null
         },
         {
           "title": "Circe",
           "author": "Madeline Miller",
-          "why": "Great retelling of the Odyssey",
+          "why": "Lyrical prose, beautiful writing",
           "url": null
         }
       ],
@@ -3817,7 +3846,7 @@
         {
           "title": "Mythic Quest",
           "type": "tv_show",
-          "why": "Gets at experiences in technology organizations, funny",
+          "why": "Funny, lighthearted, startup life dragged out to extreme",
           "url": null
         }
       ],
@@ -3959,7 +3988,7 @@
         {
           "title": "The Wire",
           "type": "tv_show",
-          "why": "Rewatch value",
+          "why": "it's one of the best made series for television ever",
           "url": "https://www.hbo.com/the-wire"
         },
         {
@@ -4090,7 +4119,7 @@
       "products": [
         {
           "name": "Granola",
-          "why": "Fantastic product, note taking",
+          "why": "really useful in terms of being able to capture the thoughts, notes, and structure it",
           "url": "https://www.granola.ai/"
         }
       ],
@@ -4125,7 +4154,7 @@
         {
           "title": "No Rules Rules",
           "author": "Reed Hastings and Erin Meyer",
-          "why": "Inspiration for culture",
+          "why": "inspiring story of Netflix's pivot and unique culture",
           "url": "https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860"
         },
         {
@@ -4196,7 +4225,7 @@
         {
           "title": "Yellowstone",
           "type": "tv_show",
-          "why": "Has property in Montana",
+          "why": "really, really fun to watch for people who are curious about that culture and that world",
           "url": "https://www.amazon.com/Yellowstone-Season-1/dp/B07D7FBB8Z"
         },
         {
@@ -4260,14 +4289,14 @@
       "books": [
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
-          "why": "Opened eyes to getting the most out of teams",
+          "author": "Andrew Grove",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
           "title": "Build",
           "author": "Tony Fadell",
-          "why": "Practical pointers on building crafted experiences",
+          "why": "Wife wrote it with Tony, many failures before discoveries",
           "url": "https://www.amazon.com/Build/dp/1787634116/ref=tmm_pap_swatch_0"
         },
         {
@@ -4288,7 +4317,7 @@
       "products": [
         {
           "name": "Midjourney",
-          "why": "AI tool for generating images",
+          "why": "Great for toddlers to visualize ideas",
           "url": "https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F"
         }
       ],
@@ -4442,7 +4471,7 @@
         {
           "title": "Slow Horses",
           "type": "tv_show",
-          "why": "One of the better shows on TV",
+          "why": "I really like it. It's a great piece of work.",
           "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o"
         }
       ],
@@ -4547,13 +4576,13 @@
         {
           "title": "For All Mankind",
           "type": "tv_show",
-          "why": "Fun alternate reality",
+          "why": "playing alternative theories to how the space race might have looked",
           "url": "https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7"
         },
         {
           "title": "Ted Lasso",
           "type": "tv_show",
-          "why": "Clients love it for leadership stuff",
+          "why": "positive and uplifting message, great performance, humorous, well-developed characters",
           "url": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
         }
       ],
@@ -4619,7 +4648,7 @@
         {
           "title": "Creativity, Inc.",
           "author": "Ed Catmull",
-          "why": "Got a lot from it",
+          "why": "Talks about negative forces that eat away at creativity",
           "url": "https://www.amazon.com/Creativity-Inc-Expanded-Overcoming-Inspiration/dp/0593594649"
         }
       ],
@@ -4766,7 +4795,7 @@
         {
           "title": "Understanding Comics",
           "author": "Scott McCloud",
-          "why": "Great way to explore how people perceive",
+          "why": "It's a thought-provoking book on how to do storytelling, diagramming, and the art of comics",
           "url": "https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X"
         },
         {
@@ -4830,8 +4859,8 @@
       "tv_movies": [],
       "products": [
         {
-          "name": "Websim",
-          "why": "Wild crazy app",
+          "name": "WebSim",
+          "why": "I like playing around with it and use Claude 20 times a day",
           "url": null
         },
         {
@@ -5009,14 +5038,14 @@
         {
           "title": "Arrival",
           "type": "movie",
-          "why": "Based on Story of Your Life",
+          "why": "compelling, about language and memory",
           "url": "https://www.amazon.com/Arrival-Amy-Adams/dp/B01M2C4NP8"
         }
       ],
       "products": [
         {
           "name": "Waymo",
-          "why": "Magical, felt like living in the future",
+          "why": "Lovely product experience top to bottom",
           "url": "https://waymo.com"
         }
       ],
@@ -5060,7 +5089,7 @@
         {
           "title": "Scaling People",
           "author": "Claire Hughes Johnson",
-          "why": "Uses early chapters in management",
+          "why": "Practical advice, shares techniques used at Stripe",
           "url": "https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212"
         }
       ],
@@ -5085,7 +5114,7 @@
         },
         {
           "name": "Linear",
-          "why": "Use it a lot",
+          "why": "it's so well-designed and it's so easy to use",
           "url": "https://linear.app/"
         },
         {
@@ -5179,7 +5208,7 @@
           "url": null
         },
         {
-          "title": "A Fire Upon The Deep",
+          "title": "A Fire Upon the Deep",
           "author": "Vernor Vinge",
           "why": "Recommended by Noah Smith/Lenny",
           "url": null
@@ -5189,7 +5218,7 @@
         {
           "title": "Beef",
           "type": "tv_show",
-          "why": "So good, limited series",
+          "why": "Hysterical, unique storyline",
           "url": null
         },
         {
@@ -5201,7 +5230,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "So good (if you like zombie shows)",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": null
         }
       ],
@@ -5296,7 +5325,7 @@
         {
           "title": "Small Data",
           "author": "Martin Lindstrom",
-          "why": "Understanding people and how they buy",
+          "why": "it's not quoted enough in product management community and has great takeaways for product managers, designers, researchers, and strategy people",
           "url": "https://www.amazon.com/Small-Data-Clues-Uncover-Trends/dp/1250080681/"
         },
         {
@@ -5540,13 +5569,13 @@
         {
           "title": "Crossing the Chasm",
           "author": "Geoffrey Moore",
-          "why": "Classic marketing book",
+          "why": "For product; actually read it, don't just know the concept",
           "url": null
         },
         {
           "title": "Purple Cow",
           "author": "Seth Godin",
-          "why": "Classic marketing book",
+          "why": "Good foundation for brand",
           "url": null
         },
         {
@@ -5578,7 +5607,7 @@
         {
           "title": "Yellowjackets",
           "type": "tv_show",
-          "why": "Lord of the Flies meets Lost",
+          "why": "Most recent favorite, creepy/shocking",
           "url": null
         },
         {
@@ -5718,7 +5747,7 @@
         {
           "title": "Andor",
           "type": "tv_show",
-          "why": "Actually good for television",
+          "why": "it's a great piece of science fiction, a good expansion of the universe, and has deep thinking about what the future could look like",
           "url": "https://www.disneyplus.com/series/star-wars-andor/3xsQKWG00GL5"
         }
       ],
@@ -5900,13 +5929,13 @@
         {
           "title": "Thinking, Fast and Slow",
           "author": "Daniel Kahneman",
-          "why": "Apply frameworks to growth",
+          "why": "It's the Bible for behavior and helps with building front-end products and understanding member expectations",
           "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
         },
         {
           "title": "How to Measure Anything",
           "author": "Douglas W. Hubbard",
-          "why": "Measuring things not immediately obvious",
+          "why": "For product and growth geeks or anyone with more than a passing interest in data.",
           "url": "https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273"
         }
       ],
@@ -5914,7 +5943,7 @@
         {
           "title": "The Last Dance",
           "type": "tv_show",
-          "why": "Likes aggressive sports",
+          "why": "Loves sports documentaries",
           "url": "https://www.netflix.com/title/80203144"
         },
         {
@@ -5978,7 +6007,7 @@
         {
           "title": "Never Split the Difference",
           "author": "Chris Voss",
-          "why": "Recommend to everybody, shouldn't get driver's license without reading",
+          "why": "super helpful for negotiation, but also for a lot of business decision making generally",
           "url": null
         },
         {
@@ -6176,13 +6205,13 @@
         {
           "title": "Shoe Dog",
           "author": null,
-          "why": null,
+          "why": "Pre-product market fit: chase passion, team alignment",
           "url": null
         },
         {
           "title": "The Hard Thing About Hard Things",
           "author": "Ben Horowitz",
-          "why": null,
+          "why": "Teaches PMs to chew glass and care about outcomes",
           "url": null
         }
       ],
@@ -6197,7 +6226,7 @@
       "products": [
         {
           "name": "SNOO",
-          "why": "helped with the baby",
+          "why": "Helps soothe baby while they sleep",
           "url": "https://www.happiestbaby.com/products/snoo-smart-bassinet"
         }
       ],
@@ -6235,13 +6264,13 @@
         {
           "title": "Silo",
           "type": "tv_show",
-          "why": null,
+          "why": "Mystery, reminds of Fallout",
           "url": "https://tv.apple.com/us/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
         },
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": null,
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
         }
       ],
@@ -6299,7 +6328,7 @@
         {
           "title": "When Breath Becomes Air",
           "author": "Paul Kalanithi",
-          "why": "Pulls on heartstrings, makes you more human",
+          "why": "It's a beautiful memoir that reminds us to live in the present and not overthink our mission and purpose.",
           "url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X"
         }
       ],
@@ -6307,7 +6336,7 @@
         {
           "title": "The Bear",
           "type": "tv_show",
-          "why": "Great show around leadership and intensity",
+          "why": "Feels like being a PM, beautiful cinematography",
           "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
         }
       ],
@@ -6482,7 +6511,7 @@
         {
           "title": "Hooked",
           "author": "Nir Eyal",
-          "why": null,
+          "why": "it's an effective model for thinking about how to create engaging products",
           "url": "https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788"
         },
         {
@@ -6591,13 +6620,13 @@
         {
           "title": "The Design of Everyday Things",
           "author": "Don Norman",
-          "why": "Transformed thinking about design and usability",
+          "why": "See the world from the perspective of everything as a product",
           "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654"
         },
         {
           "title": "Man's Search for Meaning",
           "author": "Viktor Frankl",
-          "why": "Philosophical, meaning of life",
+          "why": "Favorite book of all time. Realize it's not so bad what you're going through",
           "url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/1663607982/"
         }
       ],
@@ -6617,7 +6646,7 @@
         {
           "title": "The White Lotus",
           "type": "tv_show",
-          "why": "So good",
+          "why": "Raw entertainment",
           "url": "https://www.hbo.com/the-white-lotus"
         },
         {
@@ -6954,13 +6983,13 @@
         {
           "title": "Emily in Paris",
           "type": "tv_show",
-          "why": "Entertainment",
+          "why": "Tune out, nice visuals",
           "url": "https://www.netflix.com/title/81037371"
         },
         {
-          "title": "Everything Everywhere All At Once",
+          "title": "Everything Everywhere All at Once",
           "type": "movie",
-          "why": "Really good movie",
+          "why": "wonderful story and explores many interesting themes",
           "url": "https://www.sho.com/titles/3493875/everything-everywhere-all-at-once"
         }
       ],
@@ -7018,61 +7047,61 @@
         {
           "title": "7 Powers",
           "author": "Hamilton Helmer",
-          "why": null,
+          "why": "Post-product market fit: durable business strategy",
           "url": "https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319"
         },
         {
           "title": "The Complete Investor",
           "author": "Charlie Munger",
-          "why": null,
+          "why": "Mental models, apply 3 different models",
           "url": "https://www.amazon.com/Charlie-Munger-Tren-Griffin-audiobook/dp/B015DSQSQ8/ref=sr_1_1?hvadid=580696692424&amp;hvdev=c&amp;hvlocphy=9028745&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=5338579804574228862&amp;hvtargid=kwd-262886833148&amp;hydadcr=22593_13493352&amp;keywords=charlie+munger+complete+investor&amp;qid=1684277651&amp;sr=8-1"
         },
         {
           "title": "The Mystery of the Aleph",
           "author": null,
-          "why": null,
+          "why": "Science/Math interest",
           "url": "https://www.amazon.com/Mystery-Aleph-Mathematics-Kabbalah-Infinity/dp/0743422996/ref=asc_df_0743422996/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312152840806&amp;hvpos=&amp;hvnetw=g&amp;hvrand=9418952880104231709&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9028745&amp;hvtargid=pla-492783791033&amp;psc=1&amp;tag=&amp;ref=&amp;adgrpid=61316181319&amp;hvpone=&amp;hvptwo=&amp;hvadid=312152840806&amp;hvpos=&amp;hvnetw=g&amp;hvrand=9418952880104231709&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9028745&amp;hvtargid=pla-492783791033"
         },
         {
           "title": "Something Deeply Hidden",
           "author": "Sean Carroll",
-          "why": null,
+          "why": "Quantum mechanics interpretation",
           "url": "https://www.amazon.com/Something-Deeply-Hidden-audiobook/dp/B07QT9TBQW/ref=sr_1_1?crid=2GRK6NABBK5LD&amp;keywords=something+deeply+hidden+sean&amp;qid=1684277747&amp;s=books&amp;sprefix=somehting+deeply+hidden+sea%2Cstripbooks%2C113&amp;sr=1-1"
         },
         {
           "title": "Helgoland",
           "author": "Carlo Rovelli",
-          "why": null,
+          "why": "Relational interpretation of quantum mechanics",
           "url": "https://www.amazon.com/Helgoland-Making-Sense-Quantum-Revolution/dp/B08MQYRVRX/ref=sr_1_1?hvadid=512483042791&amp;hvdev=c&amp;hvlocphy=9028745&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=956934647080144197&amp;hvtargid=kwd-1211053925506&amp;hydadcr=17033_10286991&amp;keywords=helgoland+book&amp;qid=1684277874&amp;sr=8-1"
         },
         {
           "title": "The Beginning of Infinity",
-          "author": "David Deutch",
-          "why": null,
+          "author": "David Deutsch",
+          "why": "Science/Philosophy",
           "url": "https://www.amazon.com/The-Beginning-of-Infinity-audiobook/dp/B005HTYBCM/ref=sr_1_1?crid=1CMGPTZC7XH8J&amp;keywords=beginning+of+infinity+by+david+deutsch&amp;qid=1684277916&amp;s=audible&amp;sprefix=the+beginning+of+infinity+%2Caudible%2C115&amp;sr=1-1"
         },
         {
           "title": "The Fabric of Reality",
-          "author": "David Deutch",
-          "why": null,
+          "author": "David Deutsch",
+          "why": "Science/Philosophy",
           "url": "https://www.amazon.com/The-Fabric-of-Reality-audiobook/dp/B07L5XWD7X/ref=sr_1_2?crid=1CMGPTZC7XH8J&amp;keywords=beginning+of+infinity+by+david+deutsch&amp;qid=1684277916&amp;s=audible&amp;sprefix=the+beginning+of+infinity+%2Caudible%2C115&amp;sr=1-2"
         },
         {
           "title": "The Case Against Reality",
           "author": "Donald Hoffman",
-          "why": null,
+          "why": "Evolution vs Truth",
           "url": "https://www.amazon.com/The-Case-Against-Reality-audiobook/dp/B07VL5TCVF/ref=sr_1_1?crid=XZFFFXE18TKO&amp;keywords=the+case+against+reality&amp;qid=1684277974&amp;s=audible&amp;sprefix=the+case+agaisnt+realit%2Caudible%2C125&amp;sr=1-1"
         },
         {
           "title": "Gödel's Proof",
           "author": null,
-          "why": null,
+          "why": "Incompleteness theorem",
           "url": "https://www.amazon.com/G%C3%B6dels-Proof-Ernest-Nagel/dp/0814758371/ref=sr_1_1?crid=Z321SKS1QKZ5&amp;keywords=G%C3%B6del%27s+proof&amp;qid=1684278029&amp;sprefix=g%C3%B6del%27s+proof%2Caps%2C142&amp;sr=8-1"
         },
         {
           "title": "The Demon in the Machine",
           "author": "Paul Davies",
-          "why": null,
+          "why": "Information is entropy",
           "url": "https://www.amazon.com/Demon-Machine-Information-Solving-Mystery/dp/B0C3WPGH4P/ref=sr_1_1?crid=6CTELZY7Z7RZ&amp;keywords=the+demon+in+the+machine&amp;qid=1684278064&amp;sprefix=the+demon+in+the+machone%2Caps%2C124&amp;sr=8-1"
         }
       ],
@@ -7080,25 +7109,25 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": null,
+          "why": "Shakespearean level drama",
           "url": "https://www.hbo.com/succession"
         },
         {
           "title": "Halt and Catch Fire",
           "type": "tv_show",
-          "why": null,
+          "why": "Closest thing to what a real startup looks like",
           "url": "https://tv.apple.com/us/show/halt-and-catch-fire/umc.cmc.5s15r46uj0wx044tipm2zoh88"
         }
       ],
       "products": [
         {
-          "name": "ChatGPT GPT-4",
-          "why": null,
+          "name": "ChatGPT (GPT-4)",
+          "why": "Creating bots",
           "url": null
         },
         {
           "name": "Duolingo",
-          "why": null,
+          "why": "Impressive execution, family uses it for Spanish",
           "url": "https://www.duolingo.com/"
         }
       ],
@@ -7144,7 +7173,7 @@
         {
           "title": "7 Powers",
           "author": "Hamilton Helmer",
-          "why": "Strategy framework",
+          "why": "Post-product market fit: durable business strategy",
           "url": "https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319"
         },
         {
@@ -7206,13 +7235,13 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": "Recent favorite",
+          "why": "Shakespearean level drama",
           "url": "https://www.hbo.com/succession"
         },
         {
           "title": "Halt and Catch Fire",
           "type": "tv_show",
-          "why": "Absolute favorite, amazing for tech people",
+          "why": "Closest thing to what a real startup looks like",
           "url": "https://tv.apple.com/us/show/halt-and-catch-fire/umc.cmc.5s15r46uj0wx044tipm2zoh88"
         }
       ],
@@ -7287,7 +7316,7 @@
         {
           "title": "Pachinko",
           "author": "Min Jin Lee",
-          "why": "Shreya: Great fiction book",
+          "why": "Multi-generational family story",
           "url": "https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935"
         },
         {
@@ -7313,7 +7342,7 @@
         {
           "title": "The Wire",
           "type": "tv_show",
-          "why": "Shreya: Watching with husband",
+          "why": "it's one of the best made series for television ever",
           "url": "https://en.wikipedia.org/wiki/The_Wire"
         },
         {
@@ -7326,12 +7355,12 @@
       "products": [
         {
           "name": "Cursor",
-          "why": "Shreya: AI assisted coding",
+          "why": "It's transformed how I create software. I've just been spending a lot of time with the product just because it's so core to what I love to do and it's a really well crafted product.",
           "url": "https://cursor.com/"
         },
         {
           "name": "Claude Code",
-          "why": "Shreya & Hamel: UX is outstanding",
+          "why": "came out of the labs team, a success because we thought people are not going to be locked to their IDEs forever",
           "url": "https://www.anthropic.com/claude-code"
         }
       ],
@@ -7441,7 +7470,7 @@
         {
           "title": "Tomorrow, and Tomorrow, and Tomorrow",
           "author": "Gabrielle Zevin",
-          "why": "Phenomenal, well done",
+          "why": "beautiful story over 10 years",
           "url": null
         },
         {
@@ -7546,7 +7575,7 @@
         {
           "title": "The Bear",
           "type": "tv_show",
-          "why": "Liked the cooking/hospitality aspect",
+          "why": "Feels like being a PM, beautiful cinematography",
           "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
         }
       ],
@@ -7600,7 +7629,7 @@
         {
           "title": "The Almanack of Naval Ravikant",
           "author": "Eric Jorgenson",
-          "why": "Life-changing, learned leverage",
+          "why": "Recipe for success while loving what you do",
           "url": null
         },
         {
@@ -7627,7 +7656,7 @@
       "products": [
         {
           "name": "ChatGPT",
-          "why": "Standard answer",
+          "why": "Changed everything",
           "url": null
         },
         {
@@ -7707,7 +7736,7 @@
         {
           "title": "The Rehearsal",
           "type": "tv_show",
-          "why": "Nathan Fielder is a genius",
+          "why": "Nathan Fielder is hilarious",
           "url": "https://www.hbo.com/the-rehearsal"
         }
       ],
@@ -7841,13 +7870,13 @@
         {
           "title": "Yellowstone",
           "type": "tv_show",
-          "why": "Montana is happy place, despite the murder",
+          "why": "really, really fun to watch for people who are curious about that culture and that world",
           "url": "https://www.peacocktv.com/stream-tv/yellowstone"
         },
         {
-          "title": "Everything Everywhere All At Once",
+          "title": "Everything Everywhere All at Once",
           "type": "movie",
-          "why": "Creative",
+          "why": "wonderful story and explores many interesting themes",
           "url": "https://www.sho.com/titles/3493875/everything-everywhere-all-at-once"
         }
       ],
@@ -7919,7 +7948,7 @@
         {
           "title": "Good to Great",
           "author": "Jim Collins",
-          "why": "Especially 'The Flywheel' concept",
+          "why": "Take advice from people who analyzed business problems",
           "url": "https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996"
         },
         {
@@ -7937,9 +7966,9 @@
           "url": "https://www.netflix.com/title/81083008"
         },
         {
-          "title": "Wheel of Time",
+          "title": "The Wheel of Time",
           "type": "tv_show",
-          "why": "Fantasy favorite",
+          "why": "Reading books as a kid",
           "url": "https://www.amazon.com/Wheel-Time-Season-1/dp/B09F59CZ7R"
         }
       ],
@@ -8296,7 +8325,7 @@
         {
           "title": "Bluey",
           "type": "tv_show",
-          "why": "Watch with kids",
+          "why": "It's a beautiful animation series that can be enjoyed by the whole family and has layers of dialogue and points that are trying to be gotten across",
           "url": "https://www.disneyplus.com/series/bluey/1xy9TAOQ0M3r"
         },
         {
@@ -8513,7 +8542,7 @@
         {
           "title": "The Sandman",
           "type": "tv_show",
-          "why": "By Neil Gaiman, definitely not for children",
+          "why": "it's really good. The TV version of it isn't exactly about the books, but it's about the characters, and I feel like the way that they portrayed the characters was really interesting and super diverse",
           "url": "https://www.netflix.com/title/81150303"
         }
       ],
@@ -8645,7 +8674,7 @@
         {
           "title": "The Selfish Gene",
           "author": "Richard Dawkins",
-          "why": "Favorite book",
+          "why": "Changed the way I see the world",
           "url": "https://www.amazon.com/Selfish-Gene-Anniversary-Introduction/dp/0199291152"
         },
         {
@@ -8663,7 +8692,7 @@
         {
           "title": "Thinking, Fast and Slow",
           "author": "Daniel Kahneman",
-          "why": "Human biases",
+          "why": "It's the Bible for behavior and helps with building front-end products and understanding member expectations",
           "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/"
         }
       ],
@@ -8808,7 +8837,7 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": "Fantastic, special in theater",
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.oppenheimermovie.com/"
         }
       ],
@@ -8861,17 +8890,19 @@
         {
           "title": "High Output Management",
           "author": "Andrew Grove",
-          "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/"
+          "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills"
         },
         {
           "title": "Only the Paranoid Survive",
-          "author": "Andy Grove",
+          "author": "Andrew Grove",
           "url": "https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821"
         },
         {
           "title": "Zone to Win",
           "author": "Geoffrey Moore",
-          "url": "https://www.amazon.com/Zone-Win-Organizing-Compete-Disruption/dp/1682302113"
+          "url": "https://www.amazon.com/Zone-Win-Organizing-Compete-Disruption/dp/1682302113",
+          "why": "talks about what needs to happen internally"
         },
         {
           "title": "Poor Charlie's Almanack",
@@ -8886,7 +8917,8 @@
         {
           "title": "The 15 Commitments of Conscious Leadership",
           "author": null,
-          "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable-ebook/dp/B00R3MHWUE"
+          "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable-ebook/dp/B00R3MHWUE",
+          "why": "Soft skills, conscious leadership"
         }
       ],
       "tv_movies": [
@@ -9047,7 +9079,7 @@
         {
           "title": "High Output Management",
           "author": "Andrew Grove",
-          "why": "The Bible of management",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
@@ -9059,7 +9091,7 @@
         {
           "title": "7 Powers",
           "author": "Hamilton Helmer",
-          "why": "Business strategy and moats",
+          "why": "Post-product market fit: durable business strategy",
           "url": "https://www.amazon.com/7-Powers-Foundations-Business-Strategy/dp/0998116319"
         }
       ],
@@ -9067,7 +9099,7 @@
         {
           "title": "How To with John Wilson",
           "type": "tv_show",
-          "why": "Wild, sees life through vignettes",
+          "why": "Weird, awkward, so good (Recommended by Mike Krieger)",
           "url": "https://www.hbo.com/how-to-with-john-wilson"
         },
         {
@@ -9080,7 +9112,7 @@
       "products": [
         {
           "name": "Raycast",
-          "why": "Automation tool, incredible",
+          "why": "It's a tool that helps with productivity and has many useful shortcuts.",
           "url": "https://www.raycast.com/"
         },
         {
@@ -9270,7 +9302,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "Great adaptation",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         },
         {
@@ -9486,7 +9518,7 @@
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": "Favorite TV show ever",
+          "why": "Favorite program over last year, trippy",
           "url": "https://www.amazon.com/Severance-Toby-Stephens/dp/B001ARYGCU"
         }
       ],
@@ -9623,7 +9655,7 @@
         {
           "title": "Sprint",
           "author": "Jake Knapp",
-          "why": "Design Sprint",
+          "why": "Good technique",
           "url": "https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X"
         },
         {
@@ -9662,7 +9694,7 @@
       "products": [
         {
           "name": "SNOO",
-          "why": "Peace of mind for parents",
+          "why": "Helps soothe baby while they sleep",
           "url": "https://www.happiestbaby.com/"
         },
         {
@@ -9761,7 +9793,7 @@
         {
           "title": "How to Measure Anything",
           "author": "Douglas Hubbard",
-          "why": "Finding value of intangibles",
+          "why": "For product and growth geeks or anyone with more than a passing interest in data.",
           "url": "https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U"
         },
         {
@@ -9863,14 +9895,14 @@
         {
           "title": "Inside Out 2",
           "type": "movie",
-          "why": "Emotional literacy, integration of emotions",
+          "why": "the idea that we're all this complex stew of emotions and it's okay",
           "url": "https://movies.disney.com/inside-out-2"
         }
       ],
       "products": [
         {
           "name": "Eight Sleep",
-          "why": "Smart mattress, maximizes sleep quality",
+          "why": "makes the bed cold and also gives me some data",
           "url": "https://www.eightsleep.com/"
         }
       ],
@@ -9931,7 +9963,7 @@
         {
           "title": "Shoe Dog",
           "author": "Phil Knight",
-          "why": "Startup story of Nike, risk taking",
+          "why": "Pre-product market fit: chase passion, team alignment",
           "url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44"
         },
         {
@@ -10022,8 +10054,8 @@
         },
         {
           "title": "The Untethered Soul",
-          "author": "Michael Singer",
-          "why": "I am not my brain",
+          "author": "Michael A. Singer",
+          "why": "Internal and external game, changes perspective",
           "url": "https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379"
         }
       ],
@@ -10037,7 +10069,7 @@
         {
           "title": "Slow Horses",
           "type": "tv_show",
-          "why": "Addicted",
+          "why": "I really like it. It's a great piece of work.",
           "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o"
         }
       ],
@@ -10110,7 +10142,7 @@
         {
           "title": "The 15 Commitments of Conscious Leadership",
           "author": "Diana Chapman, Jim Dethmer",
-          "why": "Best leadership book",
+          "why": "Soft skills, conscious leadership",
           "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable/dp/0990976904/"
         },
         {
@@ -10219,7 +10251,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "Episode 3 specifically, cried",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         },
         {
@@ -10289,7 +10321,7 @@
         {
           "title": "The Murderbot Diaries",
           "author": "Martha Wells",
-          "why": "Sci-fi, sarcastic robot",
+          "why": "Pure fun, surprising depth",
           "url": "https://www.amazon.com/All-Systems-Red-Murderbot-Diaries/dp/0765397536"
         }
       ],
@@ -10297,7 +10329,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "Blew our mind",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         }
       ],
@@ -10349,7 +10381,7 @@
         {
           "title": "Never Split the Difference",
           "author": "Chris Voss",
-          "why": "Negotiations",
+          "why": "super helpful for negotiation, but also for a lot of business decision making generally",
           "url": "https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2"
         },
         {
@@ -10363,13 +10395,13 @@
         {
           "title": "Top Gun: Maverick",
           "type": "movie",
-          "why": "Nostalgia",
+          "why": "High quality product, no wasted calories",
           "url": "https://www.youtube.com/watch?v=0KBTJBiL3oQ"
         },
         {
           "title": "Never Have I Ever",
           "type": "tv_show",
-          "why": "Funny and deep",
+          "why": "fun because John McEnroe narrates it, which is hilarious",
           "url": "https://www.netflix.com/title/80179190"
         }
       ],
@@ -10426,7 +10458,7 @@
         {
           "title": "Quiet",
           "author": "Susan Cain",
-          "why": "Introverts",
+          "why": "Power of introverts, reminder that there is power in silence",
           "url": null
         },
         {
@@ -10452,7 +10484,7 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": "During holidays",
+          "why": "Shakespearean level drama",
           "url": "https://www.hbo.com/succession"
         }
       ],
@@ -10562,13 +10594,13 @@
         {
           "title": "Conscious Business",
           "author": "Fred Kofman",
-          "why": "Favorite management book",
+          "why": "Referenced for the 'left hand column' concept",
           "url": "https://www.amazon.com/Conscious-Business-Build-through-Values/dp/1622032020"
         },
         {
           "title": "Good Inside",
           "author": "Dr. Becky Kennedy",
-          "why": "Parenting and relationships",
+          "why": "Tremendous parenting book with lessons for managing one's own emotions in any context.",
           "url": "https://www.amazon.com/Good-Inside-Guide-Becoming-Parent/dp/0063159481/"
         }
       ],
@@ -10675,13 +10707,13 @@
         {
           "title": "The Timeless Way of Building",
           "author": "Christopher Alexander",
-          "why": "Building things, applicable to software",
+          "why": "instructive for building good spaces to occupy and understanding the complexities of incentive structures",
           "url": "https://www.amazon.com/Timeless-Way-Building-Christopher-Alexander/dp/0195024028"
         },
         {
           "title": "Zen and the Art of Motorcycle Maintenance",
           "author": "Robert Pirsig",
-          "why": "Quality theme",
+          "why": "Philosophy on quality",
           "url": "https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/"
         }
       ],
@@ -10755,7 +10787,7 @@
         {
           "title": "How to Win Friends and Influence People",
           "author": "Dale Carnegie",
-          "why": "Timeless learnings on people",
+          "why": "Very practical, read more than any other book",
           "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034"
         },
         {
@@ -10775,7 +10807,7 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": "Amazing",
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.oppenheimermovie.com/"
         },
         {
@@ -10861,7 +10893,7 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": "Captivating",
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.peacocktv.com/stream-movies/oppenheimer"
         },
         {
@@ -10879,14 +10911,14 @@
         {
           "title": "Succession",
           "type": "tv_show",
-          "why": "Amazing",
+          "why": "Shakespearean level drama",
           "url": null
         }
       ],
       "products": [
         {
           "name": "Perplexity",
-          "why": "Replaces Google search for many use cases",
+          "why": "Use it every day, helpful for PR research",
           "url": "https://www.perplexity.ai/"
         },
         {
@@ -11026,7 +11058,7 @@
         {
           "title": "The 15 Commitments of Conscious Leadership",
           "author": "Diana Chapman, Jim Dethmer",
-          "why": "Conscious leadership",
+          "why": "Soft skills, conscious leadership",
           "url": null
         },
         {
@@ -11046,7 +11078,7 @@
         {
           "title": "Barry",
           "type": "tv_show",
-          "why": "Like nothing else on TV",
+          "why": "Henry Winkler was spectacular",
           "url": null
         },
         {
@@ -11096,13 +11128,13 @@
         {
           "title": "Radical Candor",
           "author": "Kim Scott",
-          "why": "Modern classic, challenging directly but caring personally",
+          "why": "really good for management and best practices around giving feedback",
           "url": "https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509"
         },
         {
           "title": "The 15 Commitments of Conscious Leadership",
           "author": "Diana Chapman, Jim Dethmer",
-          "why": "Balanced, directive, effective",
+          "why": "Soft skills, conscious leadership",
           "url": "https://www.amazon.com/15-Commitments-Conscious-Leadership-Sustainable-ebook/dp/B00R3MHWUE"
         }
       ],
@@ -11206,7 +11238,7 @@
       "products": [
         {
           "name": "Arc Browser",
-          "why": "Tab management, delightful design",
+          "why": "Having a lot of fun, unveiling experience was delightful",
           "url": "https://arc.net/"
         },
         {
@@ -11275,7 +11307,7 @@
         {
           "title": "Top Gun: Maverick",
           "type": "movie",
-          "why": "Americana, pride",
+          "why": "High quality product, no wasted calories",
           "url": null
         },
         {
@@ -11293,7 +11325,7 @@
         },
         {
           "name": "Waymo",
-          "why": "Better way of riding, feels like future",
+          "why": "Lovely product experience top to bottom",
           "url": "https://waymo.com/"
         }
       ],
@@ -11355,7 +11387,7 @@
         {
           "title": "The Bear",
           "type": "tv_show",
-          "why": "Craft, worked in restaurants",
+          "why": "Feels like being a PM, beautiful cinematography",
           "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
         },
         {
@@ -11528,7 +11560,7 @@
         {
           "title": "Influence",
           "author": "Robert Cialdini",
-          "why": "Change your career",
+          "why": "Growth perspective classic",
           "url": "https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/0062937650"
         },
         {
@@ -11542,7 +11574,7 @@
         {
           "title": "The Rehearsal",
           "type": "tv_show",
-          "why": "Rehearsing life",
+          "why": "Nathan Fielder is hilarious",
           "url": null
         },
         {
@@ -11606,7 +11638,7 @@
         {
           "title": "Obviously Awesome",
           "author": "April Dunford",
-          "why": "Positioning from scratch",
+          "why": "Every marketer should read on positioning",
           "url": "https://www.amazon.com/Obviously-Awesome-Product-Positioning-Customers/dp/1999023005"
         },
         {
@@ -11620,14 +11652,14 @@
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": "Amazing",
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/"
         }
       ],
       "products": [
         {
           "name": "Granola",
-          "why": "AI meeting notes",
+          "why": "really useful in terms of being able to capture the thoughts, notes, and structure it",
           "url": "https://www.granola.ai/"
         }
       ],
@@ -11694,14 +11726,14 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": "The struggles and Nolan's craft",
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.oppenheimermovie.com/"
         }
       ],
       "products": [
         {
           "name": "Apple Vision Pro",
-          "why": "Looking forward to it",
+          "why": "Changed tune after trying it, use for work",
           "url": "https://www.apple.com/apple-vision-pro/"
         }
       ],
@@ -11756,7 +11788,7 @@
         {
           "title": "Storyworthy",
           "author": "Matthew Dicks",
-          "why": "Recommended a lot",
+          "why": "Art of storytelling, for marketers",
           "url": "https://www.amazon.com/Storyworthy-Engage-Persuade-through-Storytelling/dp/1608685489"
         },
         {
@@ -11800,7 +11832,7 @@
         },
         {
           "name": "ChatGPT",
-          "why": "Obviously",
+          "why": "Changed everything",
           "url": null
         },
         {
@@ -12025,7 +12057,7 @@
         {
           "title": "Top Gun: Maverick",
           "type": "movie",
-          "why": "Watched too many times",
+          "why": "High quality product, no wasted calories",
           "url": "https://www.amazon.com/Top-Gun-Tom-Cruise/dp/B001K3K5MO"
         },
         {
@@ -12111,7 +12143,7 @@
         {
           "title": "The White Lotus",
           "type": "tv_show",
-          "why": "Season 2 was fun",
+          "why": "Raw entertainment",
           "url": "https://www.hbo.com/the-white-lotus"
         },
         {
@@ -12124,17 +12156,17 @@
       "products": [
         {
           "name": "Figma",
-          "why": "Daily use",
+          "why": "Nice when designers let me play with things.",
           "url": "https://www.figma.com/"
         },
         {
           "name": "Miro",
-          "why": "Daily use",
+          "why": "Essential for collaboration",
           "url": "https://miro.com/"
         },
         {
           "name": "Slack",
-          "why": "Daily use",
+          "why": "Makes life easier",
           "url": null
         },
         {
@@ -12355,7 +12387,7 @@
       "products": [
         {
           "name": "Notion",
-          "why": "Use for everything, likes AI",
+          "why": "All documentation, personal use",
           "url": "https://www.notion.so/"
         },
         {
@@ -12424,7 +12456,7 @@
         {
           "title": "Thinking, Fast and Slow",
           "author": "Daniel Kahneman",
-          "why": "Customer psychology",
+          "why": "It's the Bible for behavior and helps with building front-end products and understanding member expectations",
           "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/"
         },
         {
@@ -12450,7 +12482,7 @@
         },
         {
           "name": "Granola",
-          "why": "Meeting notes",
+          "why": "really useful in terms of being able to capture the thoughts, notes, and structure it",
           "url": "https://www.granola.ai/"
         }
       ],
@@ -12486,7 +12518,7 @@
         {
           "title": "Monetizing Innovation",
           "author": "Madhavan Ramanujam",
-          "why": "His own book",
+          "why": "Practical pricing tips from hundreds of tech companies",
           "url": "https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867"
         },
         {
@@ -12555,7 +12587,7 @@
         {
           "title": "Scaling People",
           "author": "Claire Hughes Johnson",
-          "why": "Desk reference for management",
+          "why": "Practical advice, shares techniques used at Stripe",
           "url": "https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212/r"
         }
       ],
@@ -12563,7 +12595,7 @@
         {
           "title": "Slow Horses",
           "type": "tv_show",
-          "why": "Gary Oldman is incredible",
+          "why": "I really like it. It's a great piece of work.",
           "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o"
         }
       ],
@@ -12676,7 +12708,7 @@
         },
         {
           "name": "Whisper Flow",
-          "why": "Voice transcription",
+          "why": "It's a conceptual transcription tool that seamlessly identifies variables and transcribes instructions.",
           "url": "https://wisprflow.ai"
         },
         {
@@ -12781,7 +12813,7 @@
         {
           "title": "Inspired",
           "author": "Marty Cagan",
-          "why": "How to create tech products people love",
+          "why": "Reflection of decades of love and passion for product work",
           "url": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507"
         },
         {
@@ -12808,7 +12840,7 @@
         {
           "title": "The White Lotus",
           "type": "tv_show",
-          "why": "Mind blowing",
+          "why": "Raw entertainment",
           "url": "https://www.hbo.com/the-white-lotus"
         }
       ],
@@ -12820,7 +12852,7 @@
         },
         {
           "name": "ChatGPT",
-          "why": "Obvious choice",
+          "why": "Changed everything",
           "url": "https://chat.openai.com/auth/login"
         }
       ],
@@ -12878,7 +12910,7 @@
         {
           "title": "Build",
           "author": "Tony Fadell",
-          "why": "Product model for hardware, fabulous perspective",
+          "why": "Wife wrote it with Tony, many failures before discoveries",
           "url": "https://www.lennyspodcast.com/building-a-long-and-meaningful-career-nikhyl-singhal-meta-google/"
         },
         {
@@ -12952,25 +12984,25 @@
         {
           "title": "Inspired",
           "author": "Marty Cagan",
-          "why": "His book",
+          "why": "Reflection of decades of love and passion for product work",
           "url": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507"
         },
         {
           "title": "Working Backwards",
           "author": "Colin Bryar and Bill Carr",
-          "why": "Amazon's culture",
+          "why": "it provides a unique way of building product and is opinionated about what matters in the process",
           "url": null
         },
         {
           "title": "No Rules Rules",
           "author": "Reed Hastings and Erin Meyer",
-          "why": "Netflix's culture",
+          "why": "inspiring story of Netflix's pivot and unique culture",
           "url": null
         },
         {
           "title": "Build",
           "author": "Tony Fadell",
-          "why": "Apple's culture",
+          "why": "Wife wrote it with Tony, many failures before discoveries",
           "url": "https://www.lennyspodcast.com/building-a-long-and-meaningful-career-nikhyl-singhal-meta-google/"
         },
         {
@@ -13043,7 +13075,7 @@
         {
           "title": "How to Win Friends and Influence People",
           "author": "Dale Carnegie",
-          "why": "Classic advice on being interested",
+          "why": "Very practical, read more than any other book",
           "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034"
         }
       ]
@@ -13209,13 +13241,13 @@
         {
           "title": "Conscious Business",
           "author": "Fred Kofman",
-          "why": "User manual for human beings",
+          "why": "Referenced for the 'left hand column' concept",
           "url": "https://www.amazon.com/Conscious-Business-Build-through-Values/dp/1622032020"
         },
         {
           "title": "Thinking in Systems",
           "author": "Donella Meadows",
-          "why": "Best generic framework for systems",
+          "why": "Good book about how to see systems",
           "url": "https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557"
         },
         {
@@ -13276,20 +13308,20 @@
         },
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
-          "why": "Foundational business book",
+          "author": "Andrew Grove",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
           "title": "The Hard Thing About Hard Things",
           "author": "Ben Horowitz",
-          "why": "Foundational business book",
+          "why": "Teaches PMs to chew glass and care about outcomes",
           "url": "https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205"
         },
         {
           "title": "Make Time",
           "author": "Jake Knapp and John Zeratsky",
-          "why": "Reading it now",
+          "why": "Radically changed my relationship with information.",
           "url": "https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422"
         }
       ],
@@ -13434,7 +13466,7 @@
         {
           "title": "The Last of Us",
           "type": "tv_show",
-          "why": "Great storytelling",
+          "why": "Watching for work (sales impact) and entertainment",
           "url": "https://www.hbo.com/the-last-of-us"
         },
         {
@@ -13533,7 +13565,7 @@
         {
           "title": "Barbie",
           "type": "movie",
-          "why": "So good",
+          "why": "Better than expected",
           "url": "https://www.amazon.com/Barbie-Margot-Robbie/dp/B0CB1TMKR6"
         },
         {
@@ -13683,13 +13715,13 @@
         {
           "title": "Inspired",
           "author": "Marty Cagan",
-          "why": "Foundational knowledge",
+          "why": "Reflection of decades of love and passion for product work",
           "url": "https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507"
         },
         {
           "title": "Scaling People",
           "author": "Claire Hughes Johnson",
-          "why": "Useful tactical things for managers",
+          "why": "Practical advice, shares techniques used at Stripe",
           "url": "https://www.amazon.com/Scaling-People-Tactics-Management-Building/dp/1953953212"
         }
       ],
@@ -13836,7 +13868,7 @@
         {
           "title": "Continuous Discovery Habits",
           "author": "Teresa Torres",
-          "why": "Recommended by Melissa",
+          "why": "Very good book on discovery techniques",
           "url": null
         }
       ],
@@ -13937,7 +13969,7 @@
         {
           "title": "The Untethered Soul",
           "author": "Michael A. Singer",
-          "why": "Taught me a lot about being present",
+          "why": "Internal and external game, changes perspective",
           "url": "https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379/"
         },
         {
@@ -14021,7 +14053,7 @@
         {
           "title": "Oppenheimer",
           "type": "movie",
-          "why": "Thought it was great",
+          "why": "I think any of the science type, I'm not really a science fiction person, but it's more about, I'll say historic documentaries, I love them all because they help me understand the science.",
           "url": "https://www.oppenheimermovie.com/"
         },
         {
@@ -14092,7 +14124,7 @@
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": "Favorite recent TV show",
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
         },
         {
@@ -14111,7 +14143,7 @@
       "products": [
         {
           "name": "Arc Browser",
-          "why": "Obsessed with the onboarding flow",
+          "why": "Having a lot of fun, unveiling experience was delightful",
           "url": "https://arc.net/"
         },
         {
@@ -14218,13 +14250,13 @@
         {
           "title": "The Laws of Human Nature",
           "author": "Robert Greene",
-          "why": "Liked it a lot",
+          "why": "Great library, doesn't pull punches",
           "url": null
         },
         {
           "title": "Resonate",
           "author": "Nancy Duarte",
-          "why": "Likes that book a lot",
+          "why": "Communication, storytelling, presentation skills",
           "url": "https://www.amazon.com/Resonate-Present-Stories-Transform-Audiences/dp/0470632011"
         }
       ],
@@ -14324,8 +14356,8 @@
         },
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
-          "why": "How Andy Grove thinks, not just tactics",
+          "author": "Andrew Grove",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         }
       ],
@@ -14512,7 +14544,7 @@
       "products": [
         {
           "name": "Eight Sleep",
-          "why": "Vibrating alarm, thermal control",
+          "why": "makes the bed cold and also gives me some data",
           "url": "https://www.eightsleep.com/"
         },
         {
@@ -14623,13 +14655,13 @@
         {
           "title": "High Output Management",
           "author": null,
-          "why": "Extremely applicable in AI",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
           "title": "The Design of Everyday Things",
           "author": null,
-          "why": "Extremely applicable in AI",
+          "why": "See the world from the perspective of everything as a product",
           "url": "https://www.amazon.com/dp/0465050654/"
         },
         {
@@ -14643,7 +14675,7 @@
         {
           "title": "Her",
           "type": "movie",
-          "why": "Learn from it",
+          "why": "Grew up with it (conceptually)",
           "url": "https://www.amazon.com/Her-Joaquin-Phoenix/dp/B00IA3MX9A"
         },
         {
@@ -14655,7 +14687,7 @@
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": null,
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
         }
       ],
@@ -14694,24 +14726,24 @@
         {
           "title": "Thinking in Systems",
           "author": "Donella Meadows",
-          "why": "Love it",
+          "why": "Good book about how to see systems",
           "url": null
         }
       ],
       "products": [
         {
           "name": "Superhuman",
-          "why": "Email productivity app, can't not use it",
+          "why": "it's so well-designed and it's so easy to use",
           "url": null
         },
         {
           "name": "Loom",
-          "why": "Video recording tool for quick updates",
+          "why": "for recording trainings in a human, connected way",
           "url": null
         },
         {
           "name": "TikTok",
-          "why": "Short form video is fun and entertaining",
+          "why": "I love how entertaining it is. I love how simple it is.",
           "url": null
         }
       ]
@@ -14780,7 +14812,7 @@
         {
           "title": "Shrinking",
           "type": "tv_show",
-          "why": "cute",
+          "why": "Funny and positive",
           "url": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs"
         }
       ],
@@ -14832,13 +14864,13 @@
         {
           "title": "Good Strategy Bad Strategy",
           "author": "Richard Rumelt",
-          "why": null,
+          "why": "Simple framework",
           "url": null
         },
         {
           "title": "Designing Your Life",
           "author": "Bill Burnett and Dave Evans",
-          "why": null,
+          "why": "It applies design principles to life design, helping people map their next career level that's both meaningful and fulfilling",
           "url": null
         },
         {
@@ -14852,13 +14884,13 @@
         {
           "title": "Suits",
           "type": "tv_show",
-          "why": "easy, fun watches",
+          "why": "The story arc of every episode is that there's a problem. Then they solve the problem and then the problem is solved at the end. So, it's very gratifying.",
           "url": null
         },
         {
           "title": "Ted Lasso",
           "type": "tv_show",
-          "why": "a favorite",
+          "why": "positive and uplifting message, great performance, humorous, well-developed characters",
           "url": null
         },
         {
@@ -14918,7 +14950,7 @@
       "products": [
         {
           "name": "Arc Browser",
-          "why": "Best onboarding experience",
+          "why": "Having a lot of fun, unveiling experience was delightful",
           "url": "https://arc.net/"
         }
       ]
@@ -15026,8 +15058,8 @@
         },
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
-          "why": "Back to software",
+          "author": "Andrew Grove",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         }
       ],
@@ -15094,14 +15126,14 @@
         {
           "title": "Barbie",
           "type": "movie",
-          "why": "Last movie watched",
+          "why": "Better than expected",
           "url": "https://www.imdb.com/title/tt1517268/"
         }
       ],
       "products": [
         {
           "name": "Arc Browser",
-          "why": "Onboarding flow was mind-blowingly good",
+          "why": "Having a lot of fun, unveiling experience was delightful",
           "url": "https://arc.net/"
         }
       ],
@@ -15207,7 +15239,7 @@
         {
           "title": "The Bear",
           "type": "tv_show",
-          "why": "Incredible cinematography, emotionally jarring",
+          "why": "Feels like being a PM, beautiful cinematography",
           "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
         }
       ],
@@ -15276,7 +15308,7 @@
         {
           "title": "For All Mankind",
           "type": "tv_show",
-          "why": "Really like it",
+          "why": "playing alternative theories to how the space race might have looked",
           "url": "https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7"
         },
         {
@@ -15289,7 +15321,7 @@
       "products": [
         {
           "name": "Arc Browser",
-          "why": "Early user, really love Arc",
+          "why": "Having a lot of fun, unveiling experience was delightful",
           "url": "https://arc.net/"
         }
       ],
@@ -15388,7 +15420,7 @@
         {
           "title": "Inspired",
           "author": "Marty Cagan",
-          "why": "Go-to for PMs, classic",
+          "why": "Reflection of decades of love and passion for product work",
           "url": null
         },
         {
@@ -15408,7 +15440,7 @@
         {
           "title": "The Diplomat",
           "type": "tv_show",
-          "why": "Very much enjoying",
+          "why": "Terrific, easy watch, West Wing vibes",
           "url": "https://www.netflix.com/title/81288983"
         },
         {
@@ -15470,7 +15502,7 @@
         },
         {
           "name": "Descript",
-          "why": "Video recording and editing",
+          "why": "it works better than prior audio and video editing solutions",
           "url": "https://www.descript.com/"
         },
         {
@@ -15648,7 +15680,7 @@
       "books": [
         {
           "title": "The Goal",
-          "author": "Eli Goldratt",
+          "author": "Eliyahu Goldratt",
           "why": "Novelization of Toyota lean manufacturing, systems thinking",
           "url": "https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951"
         },
@@ -15707,14 +15739,14 @@
         {
           "title": "The Wire",
           "type": "tv_show",
-          "why": "Beautiful writing, unparalleled",
+          "why": "it's one of the best made series for television ever",
           "url": "https://www.hbo.com/the-wire"
         }
       ],
       "products": [
         {
           "name": "Granola",
-          "why": "Superpower for brainstorming, organizes ideas",
+          "why": "really useful in terms of being able to capture the thoughts, notes, and structure it",
           "url": "https://www.granola.ai/"
         }
       ],
@@ -15728,7 +15760,8 @@
         {
           "title": "The Design of Everyday Things",
           "author": "Don Norman",
-          "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654"
+          "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654",
+          "why": "See the world from the perspective of everything as a product"
         },
         {
           "title": "The Silk Roads: A New History of the World",
@@ -15916,7 +15949,7 @@
         {
           "title": "The Wire",
           "type": "tv_show",
-          "why": "it's the best show ever created",
+          "why": "it's one of the best made series for television ever",
           "url": "https://www.hbo.com/the-wire"
         }
       ],
@@ -15972,7 +16005,7 @@
         {
           "title": "Designing Your Life",
           "author": "Bill Burnett",
-          "why": null,
+          "why": "It applies design principles to life design, helping people map their next career level that's both meaningful and fulfilling",
           "url": "https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful/dp/1101875321"
         }
       ],
@@ -16024,7 +16057,8 @@
         {
           "title": "Monetizing Innovation",
           "author": "Madhavan Ramanujam",
-          "url": "https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867"
+          "url": "https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867",
+          "why": "Practical pricing tips from hundreds of tech companies"
         }
       ]
     },
@@ -16167,7 +16201,7 @@
       "products": [
         {
           "name": "Airtable",
-          "why": "it's a powerful tool",
+          "why": "Number 5 (but actually #1)",
           "url": "https://www.airtable.com/"
         },
         {
@@ -16177,7 +16211,7 @@
         },
         {
           "name": "Superhuman",
-          "why": "it's an incredibly fast email client",
+          "why": "it's so well-designed and it's so easy to use",
           "url": "https://superhuman.com/"
         },
         {
@@ -16271,18 +16305,18 @@
         {
           "title": "The Innovator's Dilemma",
           "author": "Clayton Christensen",
-          "why": null,
+          "why": "#1 favorite book for PMs",
           "url": "https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244"
         },
         {
           "title": "Playing to Win",
           "author": "Roger Martin",
-          "why": null,
+          "why": "Great modern strategy book",
           "url": "https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X"
         },
         {
           "title": "Only the Paranoid Survive",
-          "author": "Andy Grove",
+          "author": "Andrew Grove",
           "why": null,
           "url": "https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821"
         }
@@ -16291,7 +16325,7 @@
         {
           "title": "Yellowstone",
           "type": "tv_show",
-          "why": null,
+          "why": "really, really fun to watch for people who are curious about that culture and that world",
           "url": "https://www.paramountnetwork.com/shows/yellowstone"
         }
       ],
@@ -16345,7 +16379,7 @@
         {
           "title": "Competing Against Luck",
           "author": "Clayton Christensen",
-          "why": null,
+          "why": "It's a really good framework for thinking about delivering value with your products.",
           "url": "https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612"
         },
         {
@@ -16365,13 +16399,13 @@
         {
           "title": "The Bear",
           "type": "tv_show",
-          "why": null,
+          "why": "Feels like being a PM, beautiful cinematography",
           "url": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
         },
         {
           "title": "Dune",
           "type": "movie",
-          "why": null,
+          "why": "awesome",
           "url": "https://www.hbomax.com/movies/dune/e7dc7b3a-a494-4ef1-8107-f4308aa6bbf7"
         },
         {
@@ -16531,8 +16565,8 @@
       "books": [
         {
           "title": "Hooked",
-          "author": "Ryan Hoover",
-          "why": null,
+          "author": "Nir Eyal",
+          "why": "it's an effective model for thinking about how to create engaging products",
           "url": null
         }
       ],
@@ -16649,7 +16683,8 @@
         {
           "title": "Competing Against Luck",
           "author": "Clayton M. Christensen",
-          "url": "https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/"
+          "url": "https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612/",
+          "why": "It's a really good framework for thinking about delivering value with your products."
         },
         {
           "title": "Job Moves: 9 Steps for Making Progress in Your Career",
@@ -16710,7 +16745,7 @@
         {
           "title": "For All Mankind",
           "type": "tv_show",
-          "why": null,
+          "why": "playing alternative theories to how the space race might have looked",
           "url": "https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7"
         }
       ],
@@ -16775,9 +16810,9 @@
           "url": "https://www.hulu.com/series/the-newsroom-3d51e070-e77d-4294-ac83-cab80d3f94dd"
         },
         {
-          "title": "West Wing",
+          "title": "The West Wing",
           "type": "tv_show",
-          "why": "Aaron Sorkin",
+          "why": "Favorite of all time",
           "url": "https://www.hbomax.com/series/urn:hbo:series:GX5nwgQDNJZ6aoQEAAAHJ"
         }
       ],
@@ -16840,7 +16875,7 @@
         {
           "title": "Man's Search for Meaning",
           "author": null,
-          "why": null,
+          "why": "Favorite book of all time. Realize it's not so bad what you're going through",
           "url": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI"
         },
         {
@@ -16920,7 +16955,7 @@
         {
           "title": "Slow Horses",
           "type": "tv_show",
-          "why": "guilty pleasure",
+          "why": "I really like it. It's a great piece of work.",
           "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o"
         }
       ],
@@ -16984,7 +17019,7 @@
         {
           "title": "The Innovator's Dilemma",
           "author": null,
-          "why": null,
+          "why": "#1 favorite book for PMs",
           "url": null
         }
       ],
@@ -17117,7 +17152,7 @@
         {
           "title": "Pachinko",
           "author": null,
-          "why": null,
+          "why": "Multi-generational family story",
           "url": "https://www.amazon.com/Pachinko-National-Book-Award-Finalist/dp/1455563935"
         },
         {
@@ -17129,7 +17164,7 @@
         {
           "title": "The Five Dysfunctions of a Team",
           "author": null,
-          "why": null,
+          "why": "Team dynamics, common problematic archetypes",
           "url": "https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756"
         }
       ],
@@ -17137,7 +17172,7 @@
       "products": [
         {
           "name": "Tesla",
-          "why": "it's an awesome experience",
+          "why": "its self-driving feature is inspiring and a masterclass in building an agent that leaves the human in control",
           "url": "https://www.tesla.com/"
         }
       ],
@@ -17191,7 +17226,7 @@
         {
           "title": "Build",
           "author": "Tony Fadell",
-          "why": null,
+          "why": "Wife wrote it with Tony, many failures before discoveries",
           "url": "https://www.amazon.com/Build-Unorthodox-Guide-Making-Things/dp/0063046067"
         },
         {
@@ -17341,8 +17376,8 @@
         },
         {
           "title": "Hooked",
-          "author": "Muriel",
-          "why": null,
+          "author": "Nir Eyal",
+          "why": "it's an effective model for thinking about how to create engaging products",
           "url": "https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788"
         }
       ],
@@ -17354,9 +17389,9 @@
           "url": "https://olympics.com/en/paris-2024"
         },
         {
-          "title": "Blackberry",
+          "title": "BlackBerry",
           "type": "movie",
-          "why": "interesting example of product market fit",
+          "why": "Fascinating, cliffhanger even though you know the end",
           "url": "https://www.hulu.com/movie/blackberry-f8e5eede-b43a-41db-b5b6-df9f4233bd4b"
         }
       ],
@@ -17571,9 +17606,9 @@
     "lightning_round": {
       "books": [
         {
-          "title": "Crossing The Chasm",
+          "title": "Crossing the Chasm",
           "author": "Geoffrey Moore",
-          "why": null,
+          "why": "For product; actually read it, don't just know the concept",
           "url": "https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/"
         },
         {
@@ -17585,9 +17620,9 @@
       ],
       "tv_movies": [
         {
-          "title": "Top Gun Maverick",
+          "title": "Top Gun: Maverick",
           "type": "movie",
-          "why": "inspirational and fantastic visuals",
+          "why": "High quality product, no wasted calories",
           "url": "https://www.amazon.com/Top-Gun-Maverick-Tom-Cruise/dp/B0B18G8R9B"
         }
       ],
@@ -17629,7 +17664,7 @@
     "lightning_round": {
       "books": [
         {
-          "title": "Never Split The Difference",
+          "title": "Never Split the Difference",
           "author": "Chris Voss",
           "why": "super helpful for negotiation, but also for a lot of business decision making generally",
           "url": "https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805"
@@ -17652,7 +17687,7 @@
       "products": [
         {
           "name": "Eight Sleep",
-          "why": "great pandemic purchase",
+          "why": "makes the bed cold and also gives me some data",
           "url": "https://www.eightsleep.com/"
         },
         {
@@ -17912,7 +17947,7 @@
         },
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
+          "author": "Andrew Grove",
           "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": null
         }
@@ -18076,8 +18111,8 @@
         },
         {
           "title": "The Beginning of Infinity",
-          "author": "Deutsche",
-          "why": null,
+          "author": "David Deutsch",
+          "why": "Science/Philosophy",
           "url": "https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359"
         }
       ],
@@ -18173,7 +18208,7 @@
         {
           "title": "How To Win Friends and Influence People",
           "author": "null",
-          "why": "null",
+          "why": "Very practical, read more than any other book",
           "url": "https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/"
         }
       ],
@@ -18181,19 +18216,19 @@
         {
           "title": "The Mandalorian",
           "type": "tv_show",
-          "why": "null",
+          "why": "Fun to watch with kids, offers a connection to lore and a more adult conversation for them to be a part of.",
           "url": "https://www.disneyplus.com/series/the-mandalorian/3jLIGMDYINqD"
         },
         {
           "title": "Ted Lasso",
           "type": "tv_show",
-          "why": "null",
+          "why": "positive and uplifting message, great performance, humorous, well-developed characters",
           "url": "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
         },
         {
-          "title": "Everything Everywhere All At Once",
+          "title": "Everything Everywhere All at Once",
           "type": "movie",
-          "why": "null",
+          "why": "wonderful story and explores many interesting themes",
           "url": "https://www.sho.com/titles/3493875/everything-everywhere-all-at-once"
         }
       ],
@@ -18249,7 +18284,7 @@
         {
           "title": "Atomic Habits",
           "author": null,
-          "why": null,
+          "why": "Framework to change",
           "url": null
         }
       ],
@@ -18309,7 +18344,7 @@
         {
           "title": "When Breath Becomes Air",
           "author": "Paul Kalanithi",
-          "why": null,
+          "why": "It's a beautiful memoir that reminds us to live in the present and not overthink our mission and purpose.",
           "url": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/"
         },
         {
@@ -18375,7 +18410,7 @@
         {
           "title": "The Goal",
           "author": "Eliyahu Goldratt",
-          "why": null,
+          "why": "Novelization of Toyota lean manufacturing, systems thinking",
           "url": "https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951"
         },
         {
@@ -18395,13 +18430,13 @@
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": null,
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/"
         },
         {
           "title": "The West Wing",
           "type": "tv_show",
-          "why": null,
+          "why": "Favorite of all time",
           "url": "http://thewestwingweekly.com/"
         }
       ],
@@ -18457,7 +18492,7 @@
         {
           "title": "Thinking, Fast and Slow",
           "author": "Daniel Kahneman",
-          "why": "it's a very important piece, especially the thinking slow part",
+          "why": "It's the Bible for behavior and helps with building front-end products and understanding member expectations",
           "url": "https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555"
         }
       ],
@@ -18531,8 +18566,8 @@
       "books": [
         {
           "title": "High Output Management",
-          "author": "Andy Grove",
-          "why": null,
+          "author": "Andrew Grove",
+          "why": "It provides fundamentals for doing good management and helps develop managerial skills",
           "url": "https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884"
         },
         {
@@ -18715,7 +18750,8 @@
         {
           "title": "Switch: How to Change Things When Change Is Hard",
           "author": "Chip Heath & Dan Heath",
-          "url": "https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/"
+          "url": "https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752/",
+          "why": "it's about how to set a path for people to follow and motivate them to go down the path"
         },
         {
           "title": "The Story of the Stone (Dream of the Red Chamber)",
@@ -18739,7 +18775,7 @@
         },
         {
           "name": "Slack",
-          "why": null,
+          "why": "Makes life easier",
           "url": "https://slack.com/"
         },
         {
@@ -18749,7 +18785,7 @@
         },
         {
           "name": "Notion",
-          "why": null,
+          "why": "All documentation, personal use",
           "url": "https://www.notion.com/lennyspod"
         },
         {
@@ -18874,7 +18910,7 @@
         {
           "title": "Shoe Dog",
           "author": null,
-          "why": "One of my favorite books.",
+          "why": "Pre-product market fit: chase passion, team alignment",
           "url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike/dp/1501135910"
         },
         {
@@ -18888,13 +18924,13 @@
         {
           "title": "The Pitt",
           "type": "tv_show",
-          "why": "Was amazing. It was really good.",
+          "why": "Jason says it's good (Lenny rec)",
           "url": "https://www.amazon.com/The-Pitt-Season-1/dp/B0DNRR8QWD"
         },
         {
           "title": "Severance",
           "type": "tv_show",
-          "why": "One of my favorite shows.",
+          "why": "Favorite program over last year, trippy",
           "url": "https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
         }
       ],
@@ -18955,7 +18991,7 @@
         {
           "title": "Everything Everywhere All at Once",
           "type": "movie",
-          "why": null,
+          "why": "wonderful story and explores many interesting themes",
           "url": "https://www.sho.com/titles/3493875/everything-everywhere-all-at-once"
         },
         {
@@ -18973,7 +19009,7 @@
         },
         {
           "name": "Webflow",
-          "why": "Means that I can do stuff on my own.",
+          "why": "it's changed how they think about building products",
           "url": "https://webflow.com/"
         },
         {

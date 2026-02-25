@@ -99,6 +99,32 @@ lerna-debug.log*
 .vercel.json
 
 # ==========================================
+# One-off data scripts & artifacts
+# ==========================================
+
+apply_popular_why.py
+dump_transcripts.py
+dump_transcripts_partial.py
+patch_popular_why.py
+summarize_popular_recs.py
+prompt.txt
+recommendations.json.bak
+analyze_missing.py
+append_recs.py
+find_next_batch.py
+get_next_batch.py
+generate_flame.py
+make_svg.py
+missing_elements_report.json
+patch_missing_recs.py
+reextract_missing.py
+update_recommendations.py
+DEPLOYMENT.md
+IMPLEMENTATION_SUMMARY.md
+PRODUCTION_READY.md
+web/README.md
+
+# ==========================================
 # Temporary files
 # ==========================================
 

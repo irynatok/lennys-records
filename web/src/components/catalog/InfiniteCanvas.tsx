@@ -43,7 +43,9 @@ export default function InfiniteCanvas({
     const cw = containerRef.current.clientWidth;
     const ch = containerRef.current.clientHeight;
     // Min scale is when canvas just fits in viewport
-    return Math.max(cw / canvasWidth, ch / canvasHeight);
+    const fitScale = Math.max(cw / canvasWidth, ch / canvasHeight);
+    // Cap so we never force a min scale above 1.0 — prevents zoom lock-in on small canvases (search results)
+    return Math.min(fitScale, 1.0);
   }, [canvasWidth, canvasHeight]);
 
   // ── Bounds clamp ─────────────────────────────────────────────────────────────
@@ -54,10 +56,10 @@ export default function InfiniteCanvas({
       const sw = canvasWidth * scale;
       const sh = canvasHeight * scale;
 
-      // Clamp position so canvas edges stay within or at viewport edges
-      // Never allow empty space on any side
-      const cx = Math.min(0, Math.max(cw - sw, x));
-      const cy = Math.min(0, Math.max(ch - sh, y));
+      // When canvas is smaller than viewport at this scale, center it.
+      // Otherwise clamp so canvas edges stay within or at viewport edges.
+      const cx = sw <= cw ? (cw - sw) / 2 : Math.min(0, Math.max(cw - sw, x));
+      const cy = sh <= ch ? (ch - sh) / 2 : Math.min(0, Math.max(ch - sh, y));
       return { cx, cy };
     },
     [canvasWidth, canvasHeight],
@@ -114,10 +116,18 @@ export default function InfiniteCanvas({
       if (!transformRef.current || !containerRef.current) return;
       const cw = containerRef.current.clientWidth;
       const ch = containerRef.current.clientHeight;
-      const cx = cw / 2 - (canvasWidth * GRID_LAYOUT.DEFAULT_SCALE) / 2;
-      const cy = ch / 2 - (canvasHeight * GRID_LAYOUT.DEFAULT_SCALE) / 2;
-      transformRef.current.setTransform(cx, cy, GRID_LAYOUT.DEFAULT_SCALE, animated ? 300 : 0);
-      onTransformChange?.(cx, cy, GRID_LAYOUT.DEFAULT_SCALE);
+
+      // For small canvases (search results), compute a scale that fits the content
+      // comfortably in the viewport. For large canvases, use the default scale.
+      const fitScale = Math.min(cw / canvasWidth, ch / canvasHeight) * 0.85;
+      const scale = fitScale > GRID_LAYOUT.DEFAULT_SCALE
+        ? Math.min(fitScale, 1.5)  // Small canvas: fit-to-viewport, capped at 1.5
+        : GRID_LAYOUT.DEFAULT_SCALE; // Large canvas: use default
+
+      const cx = cw / 2 - (canvasWidth * scale) / 2;
+      const cy = ch / 2 - (canvasHeight * scale) / 2;
+      transformRef.current.setTransform(cx, cy, scale, animated ? 300 : 0);
+      onTransformChange?.(cx, cy, scale);
     },
     [canvasWidth, canvasHeight, onTransformChange],
   );

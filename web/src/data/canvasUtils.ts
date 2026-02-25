@@ -43,8 +43,13 @@ export function generateSearchLayout(items: CanvasItem[]): {
 
 // ── Normalise ──────────────────────────────────────────────────────────────────
 
-function normalizeTitle(title: string): string {
-  return title
+function normalizeTitle(title: string, stripAuthorSuffix = false): string {
+  let t = title;
+  if (stripAuthorSuffix) {
+    // Strip " - Author Name" suffix (author starts with uppercase) before lowercasing
+    t = t.replace(/\s*[-–]\s*[A-Z][^-–]*$/, '');
+  }
+  return t
     .toLowerCase()
     .replace(/^(the|a|an)\s+/i, '') // strip leading articles for dedup
     .replace(/[^\w\s]/g, '')
@@ -62,6 +67,7 @@ interface AggregateConfig<T> {
   getWhy: (item: T) => string | null;
   getUrl: (item: T) => string | null | undefined;
   type: 'book' | 'movie' | 'product';
+  stripAuthorSuffix?: boolean;
 }
 
 /**
@@ -82,7 +88,7 @@ function aggregateItems<T>(episodes: Episode[], config: AggregateConfig<T>): Can
     items.forEach((item) => {
       const title = config.getTitle(item);
       if (!title || title === 'null') return;
-      const key = normalizeTitle(title);
+      const key = normalizeTitle(title, config.stripAuthorSuffix);
 
       if (map.has(key)) {
         const existing = map.get(key)!;
@@ -90,6 +96,8 @@ function aggregateItems<T>(episodes: Episode[], config: AggregateConfig<T>): Can
           existing.recommendedBy.push(guestName);
           existing.count = existing.recommendedBy.length;
         }
+        // Prefer the longer title variant (e.g. "Atomic Habits - James Clear" over "Atomic Habits")
+        if (title.length > existing.title.length) existing.title = title;
         const why = config.getWhy(item);
         if (!existing.why && why) existing.why = why;
         if (!existing.substackUrl && ep.substack_url) existing.substackUrl = ep.substack_url;
@@ -131,6 +139,7 @@ export function aggregateBooks(episodes: Episode[]): CanvasItem[] {
     getWhy: (book) => book.why ?? null,
     getUrl: (book) => book.url ?? null,
     type: 'book',
+    stripAuthorSuffix: true,
   });
 }
 

@@ -65,16 +65,9 @@ export default function AboutPage() {
 
             <p style={{ marginBottom: '24px' }}>
               If you've ever listened to the show, you know that the lightning round at the end
-              is pure gold — favorite books, life-changing products, binge-worthy shows, and those
-              little nuggets of wisdom that stick with you. But let's be real: trying to remember
-              which guest recommended what book? Nearly impossible.
-            </p>
-
-            <p style={{ marginBottom: '24px' }}>
-              So I built this. A cozy little archive where you can browse{' '}
-              <strong>302 episodes</strong> worth of recommendations, explore them by category,
-              or just hit "Surprise me" and discover something new. Think of it as your personal
-              card catalog for all things Lenny's Podcast.
+              is pure gold – favorite books, life-changing products, binge-worthy shows, and those
+              little nuggets of wisdom that stick with you. So I built this. A cozy little archive where you can browse{' '}
+              <strong>302 episodes</strong> worth of recommendations.
             </p>
 
             <h2
@@ -92,16 +85,10 @@ export default function AboutPage() {
             </h2>
 
             <p style={{ marginBottom: '16px' }}>
-              Behind the scenes, there's a Python script that parses podcast transcripts and uses
-              AI (Groq API with llama-3.3-70b) to extract all the recommendations. The web app
-              is built with React, TypeScript, and a bunch of thoughtful animations to make
-              browsing feel delightful.
-            </p>
-
-            <p style={{ marginBottom: '24px' }}>
-              Every recommendation links back to the original Substack article, so you can dive
-              deeper into the full conversation. It's all about making this treasure trove of
-              insights actually usable.
+              Behind the scenes, there's a Python script that parses podcast transcripts with
+              AI (Gemini and Groq API ) to extract all the recommendations. The web app
+              is built with React, TypeScript, and a bunch of nice animations. Every recommendation links back to the original Substack article, so you can dive
+              deeper into the full conversation. 
             </p>
 
             <h2
@@ -122,7 +109,7 @@ export default function AboutPage() {
               This project was crafted by Iryna Tokarchuk with the help of Claude Code.
               It's open source, so feel free to{' '}
               <a
-                href="https://github.com/irynkatokarchuk/lenny-recs"
+                href="https://github.com/irynatok/lennys-records"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ color: '#DF5B24', textDecoration: 'underline' }}
